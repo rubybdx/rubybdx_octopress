@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Groupe d'utilisateurs Ruby de ...
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.rubybdx.org
+title: Ruby à Bordeaux
+subtitle: Parlons Ruby un verre à la main
+author: Yann ARMAND
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
