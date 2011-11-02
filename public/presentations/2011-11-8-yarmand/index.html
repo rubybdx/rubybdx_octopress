@@ -22,23 +22,30 @@
 	<link rel="stylesheet" href="/deckjs/extensions/hash/deck.hash.css">
 	
 	<!-- Theme CSS files (menu swaps these out) -->
-	<link rel="stylesheet" id="style-theme-link" href="/deckjs/themes/style/web-2.0.css">
+	<link rel="stylesheet" id="style-theme-link" href="/deckjs/themes/style/rubybdx.css">
 	<link rel="stylesheet" id="transition-theme-link" href="/deckjs/themes/transition/horizontal-slide.css">
 	
 	<!-- Custom CSS just for this page -->
-	<link rel="stylesheet" href="introduction.css">
+	<link rel="stylesheet" href="prez.css">
 	
 	<script src="/deckjs/modernizr.custom.js"></script>
 </head>
 
 <body class="deck-container">
 
+  <div id='logo'>
+    <img src='/images/logo.png' />
+    <a href='http://rubybdx.org'>http://rubybdx.org</a>
+  </div>
+
+
 <div class="theme-menu">
 	<h2>Themes</h2>	
 	
 	<label for="style-themes">Style:</label>
 	<select id="style-themes">
-		<option selected value="/deckjs/themes/style/web-2.0.css">Web 2.0</option>
+		<option selected value="/deckjs/themes/style/rubybdx.css">RubyBDX</option>
+		<option value="/deckjs/themes/style/web-2.0.css">Web 2.0</option>
 		<option value="/deckjs/themes/style/swiss.css">Swiss</option>
 		<option value="/deckjs/themes/style/neon.css">Neon</option>
 		<option value="">None</option>
@@ -214,7 +221,7 @@
 <script src="/deckjs/extensions/hash/deck.hash.js"></script>
 
 <!-- Specific to this page -->
-<script src="introduction.js"></script>
+<script src="prez.js"></script>
 
 </body>
 </html>
