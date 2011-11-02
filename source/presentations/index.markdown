@@ -10,6 +10,6 @@ footer: true
 Mardi 8 Novembre 2011
 =
 
-[Isolation et déclenchement auto de code JS en Rails 3.1](/presentations/2011-11-8-yarmand/)
-  -
+[Isolation et déclenchement automatique de code JS en Rails 3.1](/presentations/2011-11-8-yarmand/)
+-
 Autheur: [Yann ARMAND](http://www.harakys.com) [@yarmand](http://www.twiter.com/yarmand)

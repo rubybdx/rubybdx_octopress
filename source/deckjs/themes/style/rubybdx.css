@@ -40,6 +40,8 @@
     background: white;
     position: relative;
     /* http://nicolasgallagher.com/css-drop-shadows-without-images/ */ }
+    .deck-container pre .hilite {
+      background: inherit; }
     .borderradius .deck-container pre {
       -webkit-border-radius: 5px;
       -moz-border-radius: 5px;
