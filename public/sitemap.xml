@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://www.rubybdx.org/blog/2011/11/02/premier-apero-ruby-a-bordeaux/</loc>
+        <lastmod>2011-11-02T14:00:57+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.rubybdx.org/about/</loc>
+        <lastmod>2011-11-02T14:09:32+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.rubybdx.org/blog/archives/</loc>
+        <lastmod>2011-11-02T14:00:57+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.rubybdx.org/</loc>
+        <lastmod>2011-11-02T14:00:57+01:00</lastmod>
+    </url>
+</urlset>
