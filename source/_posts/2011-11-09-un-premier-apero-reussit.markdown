@@ -9,7 +9,7 @@ categories:
 
 11 programmeurs ont répondus à l'appel dont la plupart programment déjà en Ruby à titre professionnel ou simplement pour le plaisir.
 Nous avons passé une bonne partie du temps à faire 4 présentations, ce qui fut très intéressant, mais assez long.
-Nous feront plus court la prochaine fois afin de conserver un temps pour les discussion plus dispersées.
+Nous feront plus court la prochaine fois afin de conserver un temps pour les discussions plus dispersées.
 
 Vous pouvez consulter [les présentations](/presentations) ainsi que [quelques photos](https://www.facebook.com/media/set/?set=a.244254322298883.60132.226532387404410&type=3)
 (Si vous avez des photos à partager, n'hésitez pas à nous les envoyer sur rubybdx at googlegroups.com)
