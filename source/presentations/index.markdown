@@ -21,7 +21,7 @@ Autheur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://twitter.com/#!
 
 [MongoDB et Map Reduce](http://www.slideshare.net/pierrerenaudin/apro-rubybdx-mongodb-8112011)
 -
-Autheurs: [Pierre-Louis GOTFROIS](http://zerply.com/pl-gottfrois/) ([@gottfrois](http://twitter.com/#!/gottfrois)) et Bastien MURZEAU
+Autheurs: [Pierre-Louis GOTFROIS](http://pierrelouisgottfrois.fr/) ([@gottfrois](http://twitter.com/#!/gottfrois)) et [Bastien MURZEAU](http://www.azendoo.com)
 
 Des usages de ruby pour le Web hors de Rails (en court de publication)
 -
