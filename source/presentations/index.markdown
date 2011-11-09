@@ -23,6 +23,6 @@ Autheur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://twitter.com/#!
 -
 Autheurs: [Pierre-Louis GOTFROIS](http://zerply.com/pl-gottfrois/) ([@gottfrois](http://twitter.com/#!/gottfrois)) et Bastien MURZEAU
 
-[Des usages de ruby pour le Web hors de Rails]()
+Des usages de ruby pour le Web hors de Rails (en court de publication)
 -
 Autheur: [Damian LE NOUAILLE](http://dln.name/) ([@damln](http://twitter.com/#!/damln))
