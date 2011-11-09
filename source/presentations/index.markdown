@@ -17,7 +17,7 @@ Autheur: [Bastien GALAIS](http://crowdbuzzing.com/) ()[@bastien_gallay](http://t
 
 [Isolation et déclenchement automatique de code JS en Rails 3.1](/presentations/2011-11-8-yarmand/)
 -
-Autheur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://www.twiter.com/yarmand))
+Autheur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://www.twiter.com/#!/yarmand))
 
 [MongoDB et Map Reduce](http://www.slideshare.net/pierrerenaudin/apro-rubybdx-mongodb-8112011)
 -
