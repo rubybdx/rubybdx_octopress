@@ -12,17 +12,30 @@ Mardi 8 Novembre 2011
 
 [Ruby à Bordeaux](http://www.slideshare.net/yarmand/ruby-bordeaux)
 -
-Autheur: [Bastien GALAIS](http://crowdbuzzing.com/) ()[@bastien_gallay](http://twitter.com/#!/bastien_gallay))
+Auteur: [Bastien GALLAY](http://crowdbuzzing.com/) ()[@bastien_gallay](http://twitter.com/#!/bastien_gallay))
 
+Cette présentation a été rédigée en direct pendant l'apéro, avec la collaboration de tous les participants.
+
+<div style="width:425px" id="__ss_10087273"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/yarmand/ruby-bordeaux" title="Ruby à bordeaux" target="_blank">Ruby à bordeaux</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/10087273" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/yarmand" target="_blank">yarmand</a> </div> </div>
+
+<hr />
 
 [Isolation et déclenchement automatique de code JS en Rails 3.1](/presentations/2011-11-8-yarmand/)
 -
-Autheur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://twitter.com/#!/yarmand))
+Auteur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://twitter.com/#!/yarmand))
+
+<iframe src='/presentations/2011-11-8-yarmand/' style='width:900px;height:700px;'></iframe>
+
+<hr />
 
 [MongoDB et Map Reduce](http://www.slideshare.net/pierrerenaudin/apro-rubybdx-mongodb-8112011)
 -
-Autheurs: [Pierre-Louis GOTFROIS](http://pierrelouisgottfrois.fr/) ([@gottfrois](http://twitter.com/#!/gottfrois)) et [Bastien MURZEAU](http://www.azendoo.com)
+Auteurs: [Pierre-Louis GOTFROIS](http://pierrelouisgottfrois.fr/) ([@gottfrois](http://twitter.com/#!/gottfrois)) et [Bastien MURZEAU](http://www.azendoo.com)
+
+<div style="width:425px" id="__ss_10074243"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/pierrerenaudin/apro-rubybdx-mongodb-8112011" title="Apéro RubyBdx - MongoDB - 8-11-2011" target="_blank">Apéro RubyBdx - MongoDB - 8-11-2011</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/10074243" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/pierrerenaudin" target="_blank">pierrerenaudin</a> </div> </div>
+
+<hr/>
 
 Des usages de ruby pour le Web hors de Rails (en cours de publication)
 -
-Autheur: [Damian LE NOUAILLE](http://dln.name/) ([@damln](http://twitter.com/#!/damln))
+Auteur: [Damian LE NOUAILLE](http://dln.name/) ([@damln](http://twitter.com/#!/damln))
