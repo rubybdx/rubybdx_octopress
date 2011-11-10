@@ -4,13 +4,29 @@
   <title>Ruby à Bordeaux</title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2011-11-10T21:07:44+01:00</updated>
+  <updated>2011-11-10T21:23:42+01:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
     <name>Yann ARMAND</name>
     
   </author>
 
+  
+  <entry>
+    <title>Création D&#8217;une Mailing Liste</title>
+    <link href="http://www.rubybdx.org/blog/2011/11/10/creation-dune-mailing-liste/"/>
+    <updated>2011-11-10T21:09:00+01:00</updated>
+    <id>http://www.rubybdx.org/blog/2011/11/10/creation-dune-mailing-liste</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.rubybdx.org/images/post_icons/mailing_list.jpeg&quot; alt=&quot;Mailing_list_&quot; /&gt;
+Comme convenue lors du premier apéro, nous ouvrons une mailing sous forme d&amp;#8217;un google group afin de prolonger les discussions.&lt;/p&gt;
+
+&lt;p&gt;La lecture des archives de cette liste est ouverte à tous.&lt;/p&gt;
+
+&lt;p&gt;Pour poster, rien de plus simple, inscrivez-vous puis envoyez un email à &lt;a href=&quot;mailto:rubybdx@googlegroups.com&quot;&gt;rubybdx@googlegroups.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez vous inscrire en utilisant le formulaire d&amp;#8217;en-tête de notre site ou en accédant à linterface web du groupe &lt;a href=&quot;http://groups.google.com/group/rubybdx&quot;&gt;rubybdx&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Un Premier Apéro Réussi</title>
