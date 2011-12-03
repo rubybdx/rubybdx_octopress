@@ -7,6 +7,18 @@ sharing: true
 footer: true
 ---
 
+Mardi 6 Décembre 2011
+=
+
+[Ruby 1.9 - Quelques nouveautés](/presentations/2011-12-06-yarmand/)
+-
+Auteur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://twitter.com/#!/yarmand))
+
+<iframe src='/presentations/2011-12-06-yarmand/' style='width:900px;height:700px;'></iframe>
+
+<hr />
+
+
 Mardi 8 Novembre 2011
 =
 

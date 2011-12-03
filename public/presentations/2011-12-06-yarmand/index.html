@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+
+<!--
+  Google HTML5 slide template
+
+  Authors: Luke Mahé (code)
+           Marcin Wichary (code and design)
+           
+           Dominic Mazzoni (browser compatibility)
+           Charles Chen (ChromeVox support)
+
+  URL: http://code.google.com/p/html5slides/
+-->
+
+<html>
+  <head>
+    <title>Presentation</title>
+
+    <meta charset='utf-8'>
+    <script src='slides.js'></script>
+  </head>
+  
+  <style>
+    /* Your individual styles here, or just use inline styles if that’s
+       what you want. */
+    
+    
+  </style>
+
+  <body style='display: none'>
+    <img src="images/rubybdx.jpeg" style="position:absolute;top:578px;left:991px;z-index:100">
+
+    <section class='slides layout-regular template-default'>
+      
+      <!-- Your slides (<article>s) go here. Delete or comment out the
+           slides below. -->
+        
+        
+      
+      <article>
+        <h1>Ruby 1.9</h1>
+        <h3>Quelques nouveautés <br/> Partie #1</h3>
+        <h2>Apéro Ruby Bordeaux (rubybdx) <br/> 20011-12-06 <br/>Yann ARMAND</h2>
+      </article>
+
+      <article>
+        <h2>
+          Apeçut rapide
+        </h2>
+        <div class="build">
+          <h3>Partie #1</h3>
+        </div>
+        <ul class="build">
+          <li>
+            Nouvelle machine virtuelle => YARV
+          </li>
+          <li>
+            Nouveautées et changements syntaxiques
+          </li>
+          <li>
+            Fermetures et lambda
+          </li>
+        </ul>
+        <div class="build">
+          <h3>Partie #2 (le moi prochain)</h3>
+        </div>
+        <ul class="build">
+          <li>
+            Objets de bases et nouveaux comportements
+          </li>
+          <li>
+            parralélisme simplifié => Fiber
+          </li>
+          <li>
+            Groupes de RegExp nommés
+          </li>
+        </ul>
+
+      </article>
+
+      <article class="smaller">
+        <h2>
+          YARV => Yet Another Ruby Vm
+        </h2>
+        <div style="width:100%">
+          <img src="http://www.tbray.org/ongoing/When/200x/2006/10/20/IMG_5046.png" style='float:left;width:250px'/>
+          <p>
+            Ecrit par <strong>Koichi Sasada</strong><br/>
+            il Remplace <br/>
+            la MRI écrite par <strong>Matz (Yukihiro Matsumoto)</strong>
+          </p>
+        </div>
+        <div style="clear:both;width:100%">
+          <ul class="build">
+            <li>
+              Ruby 1.8: source => Arbre syntaxique => Interpreteur (MRI)
+              <blockquote>
+                Réputé le plus lent des langages interprétés modernes
+              </blockquote>
+            </li>
+            <li>
+              Ruby 1.9: source => Arbre syntaxique => <strong>Byte Code</strong> => <strong>YARV</strong>
+              <blockquote>
+                Performances proche du Python
+              </blockquote>
+            </li>
+            <li>
+              MacRuby >0.5: source => Arbre syntaxique => Byte Code => <strong>LLVM</strong>
+              <blockquote>
+                Performances proche d'Objective-C
+              </blockquote>
+            </li>
+          </ul>
+      </div>
+      </article>
+
+
+      <article class="smaller">
+        <h2>
+          Nouveautées syntaxiques
+        </h2>
+        <ul class="build">
+          <li>
+            Disparition du Char, tout est String
+            <pre class="prettyprint">
+?c ==> "c"
+"ruby"[1] ==> "u"
+            </pre>
+          </li>
+          <li>
+            Les symboles sont interprétés comme des Strings.
+            <pre class="prettyprint">
+a = [:windows, :mac, :amiga]
+puts a.grep(/ac/)
+
+# 1.9 => mac
+            </pre>
+          </li>
+        </ul>
+      </article>
+
+      <article class="smaller">
+        <h2>
+          Nouveautées syntaxiques
+        </h2>
+        <ul class="build">
+          <li>
+            Notation des Hashs similaire au Javascript
+            <pre class="prettyprint">
+{:a => "b"} === {a: "b"}
+            </pre>
+          </li>
+          <li>
+            Chainage de méthode grace à <code>Object#tap</code>. (effet de bord)
+            <pre class="prettyprint">
+class String
+  def zombify
+    tap {|o| o << " is a zombie"}
+  end
+end
+"Carl".zombify
+# => Carl is a zombie 
+            </pre>
+          </li>
+        </ul>
+      </article>
+
+      <article>
+        <h2>
+          Fermetures
+        </h2>
+        <pre class="prettyprint lang-ruby">
+ingredients = "legumes pour la soupe"
+quantite = 12
+
+2.times do | i;ingredients|
+  quantite = quantite + i
+  ingredients =  i
+  puts "#{ingredients+1} carottes"
+end
+puts quantite.to_s + " " + ingredients
+
+# => 13 legumes pour la soupe
+        </pre>
+        <p>
+          La variable globale <code>ingredients</code> n'est pas modifiée par le block
+        </p>
+      </article>
+      <article>
+        <h2>
+          Lamdba
+        </h2>
+        <pre class="prettyprint lang-ruby">
+class Recettes
+  def soupe(legumes, quantite=10)
+    ...
+  end
+end
+
+recettes = [ 
+  soupe: lambda {|ingredients, quantite=10| ...},
+  confit: ->(ingredients, quantite=10) {...}
+]
+        </pre>
+        <p>
+          Les fonctions deviennent des objets
+        </p>
+      </article>
+      <article>
+        <h2>
+          Lambdas, les syntaxe d'usage
+        </h2>
+        <pre class="prettyprint lang-ruby">
+l = ->(name){puts "Hello, #{name}"}
+
+l.call("world")
+l["world"]
+l.("world")
+l.yield "world"
+        </pre>
+        <div class="build">
+          <p>
+            Donnent toutes le même résultats
+          </p>
+        </div>
+        <div class="build">
+          <pre class="build prettyprint nocode">
+Hello, world
+=> nil
+          </pre>
+        </div>
+      </article>
+      
+      <article>
+        <h2>Merci !</h2>
+        <img src="images/avatar_choupi.jpg" style="float:right;width:400px"/>
+        <h3>yann ARMAND</h3>
+        <p><a href="http://blog.harakys.fr">http://blog.harakys.fr</a></p>
+        <p><a href="http://www.twitter.com/#!/yarmand">@yarmand</a></p>
+      </article>
+
+    </section>
+
+  </body>
+</html>
