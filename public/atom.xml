@@ -4,13 +4,32 @@
   <title>Ruby à Bordeaux</title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2011-12-03T18:50:23+01:00</updated>
+  <updated>2011-12-05T18:47:28+01:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
     <name>Yann ARMAND</name>
     
   </author>
 
+  
+  <entry>
+    <title>Apéro Bordelais Numéro 2</title>
+    <link href="http://www.rubybdx.org/blog/2011/12/05/apero-bordelais-numero-2/"/>
+    <updated>2011-12-05T18:42:00+01:00</updated>
+    <id>http://www.rubybdx.org/blog/2011/12/05/apero-bordelais-numero-2</id>
+    <content type="html">&lt;p&gt;Nous espérons vous voir nombreux pour ce deuxième apéro.&lt;/p&gt;
+
+&lt;p&gt;Nous avons pour l&amp;#8217;instant 2 présentations programmées :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Les objets embedded avec Mongo&lt;/li&gt;
+&lt;li&gt;Quelques nouveauté apportées par ruby 1.9 ( partie #1)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Rendez-vous le &lt;strong&gt;mardi 6 décembre&lt;/strong&gt; au &lt;a href=&quot;http://www.bordeauxcafe.com/fr/lieux/22490-ship-and-anchor&quot;&gt;Ship and anchor&lt;/a&gt; à partir de 19h.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Création D&#8217;une Mailing Liste</title>
