@@ -18,6 +18,12 @@ Auteur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://twitter.com/#!/
 
 <hr />
 
+[Embedded docs in MongoDB](http://www.slideshare.net/pierrerenaudin/apro-ruby-bdx-embedded-docs-in-mongodb-6122011)
+-
+Auteurs: [Pierre-Louis GOTFROIS](http://pierrelouisgottfrois.fr/) ([@gottfrois](http://twitter.com/#!/gottfrois)) et [Bastien MURZEAU](http://www.azendoo.com)
+
+<div style="width:425px" id="__ss_10482740"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/pierrerenaudin/apro-ruby-bdx-embedded-docs-in-mongodb-6122011" title="Apéro Ruby Bdx - Embedded docs in MongoDB - 6/12/2011 - " target="_blank">Apéro Ruby Bdx - Embedded docs in MongoDB - 6/12/2011 - </a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/10482740" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/pierrerenaudin" target="_blank">pierrerenaudin</a> </div> </div>
+<hr/>
 
 Mardi 8 Novembre 2011
 =
