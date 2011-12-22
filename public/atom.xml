@@ -4,13 +4,27 @@
   <title>Ruby à Bordeaux</title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2011-12-06T15:58:29+01:00</updated>
+  <updated>2011-12-22T12:07:44+01:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
     <name>Yann ARMAND</name>
     
   </author>
 
+  
+  <entry>
+    <title>Date Pour L&#8217;apéro De Janvier</title>
+    <link href="http://www.rubybdx.org/blog/2011/12/22/date-pour-lapero-de-janvier/"/>
+    <updated>2011-12-22T11:57:00+01:00</updated>
+    <id>http://www.rubybdx.org/blog/2011/12/22/date-pour-lapero-de-janvier</id>
+    <content type="html">&lt;p&gt;
+  Le premier mardi de Janvier tombe juste après le lundi de reprise.
+  &lt;br /&gt;
+  Je me demandais si on fait l&amp;#8217;apéro le 3 ou si un décale d&amp;#8217;une semaine.
+&lt;/p&gt;
+&lt;iframe height=&#8217;800px&#8217; src=&#8217;http://doodle.com/uif6c9cx2x7drt32&#8217; width=&#8217;842px&#8217;&gt;&lt;/iframe&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Apéro Bordelais Numéro 2</title>
