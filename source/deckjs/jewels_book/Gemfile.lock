@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    directory_watcher (1.4.1)
+    eventmachine (0.12.10)
+    mini_magick (3.3)
+      subexec (~> 0.1.0)
+    subexec (0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  directory_watcher
+  eventmachine
+  mini_magick

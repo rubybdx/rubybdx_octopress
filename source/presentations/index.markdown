@@ -5,6 +5,7 @@ date: 2011-11-02 16:35
 comments: true
 sharing: true
 footer: true
+sidebar: false
 ---
 
 Mardi 6 Décembre 2011

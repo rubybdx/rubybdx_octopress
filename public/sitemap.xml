@@ -14,7 +14,7 @@
     </url>
     <url>
         <loc>http://www.rubybdx.org/blog/2011/12/05/apero-bordelais-numero-2/</loc>
-        <lastmod>2011-12-05T18:46:45+01:00</lastmod>
+        <lastmod>2011-12-05T18:47:04+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.rubybdx.org/blog/2011/12/22/date-pour-lapero-de-janvier/</loc>
@@ -33,8 +33,24 @@
         <lastmod>2011-12-30T23:05:41+01:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://www.rubybdx.org/deckjs/jewels_book/vendor/bundle/gems/eventmachine-0.12.10/tests/client.crt
+        </loc>
+        <lastmod>2011-12-18T16:43:22+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.rubybdx.org/deckjs/jewels_book/vendor/bundle/gems/eventmachine-0.12.10/tests/client.key
+        </loc>
+        <lastmod>2011-12-18T16:43:22+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.rubybdx.org/</loc>
         <lastmod>2011-12-30T23:05:41+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.rubybdx.org/jewel_book/</loc>
+        <lastmod>2012-01-05T00:13:28+01:00</lastmod>
     </url>
     <url>
         <loc>http://www.rubybdx.org/liste_aperos/</loc>
@@ -42,6 +58,6 @@
     </url>
     <url>
         <loc>http://www.rubybdx.org/presentations/</loc>
-        <lastmod>2011-12-06T15:57:57+01:00</lastmod>
+        <lastmod>2012-01-05T00:14:25+01:00</lastmod>
     </url>
 </urlset>

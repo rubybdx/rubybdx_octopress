@@ -1,0 +1,33 @@
+---
+./scans/jewel_1.png: !ruby/struct:DirectoryWatcher::FileStat
+  mtime: 2011-12-19 00:05:29.000000000 +01:00
+  size: 75611
+  stable: 
+./scans/jewel_2.png: !ruby/struct:DirectoryWatcher::FileStat
+  mtime: 2011-12-19 00:05:29.000000000 +01:00
+  size: 142464
+  stable: 
+./scans/jewel_3.png: !ruby/struct:DirectoryWatcher::FileStat
+  mtime: 2011-12-19 00:05:29.000000000 +01:00
+  size: 217633
+  stable: 
+./scans/jewel_4.png: !ruby/struct:DirectoryWatcher::FileStat
+  mtime: 2011-12-19 00:05:29.000000000 +01:00
+  size: 141128
+  stable: 
+./scans/jewel_5.png: !ruby/struct:DirectoryWatcher::FileStat
+  mtime: 2011-12-19 00:05:29.000000000 +01:00
+  size: 214119
+  stable: 
+./scans/jewel_6.png: !ruby/struct:DirectoryWatcher::FileStat
+  mtime: 2011-12-19 00:05:29.000000000 +01:00
+  size: 61056
+  stable: 
+./scans/jewel_7.png: !ruby/struct:DirectoryWatcher::FileStat
+  mtime: 2011-12-19 00:05:29.000000000 +01:00
+  size: 299538
+  stable: 
+./scans/jewel_8.png: !ruby/struct:DirectoryWatcher::FileStat
+  mtime: 2011-12-19 00:05:29.000000000 +01:00
+  size: 277461
+  stable: 

@@ -1,0 +1,6 @@
+source 'http://rubygems.org'
+
+gem "mini_magick"
+gem "directory_watcher"
+gem "eventmachine"
+

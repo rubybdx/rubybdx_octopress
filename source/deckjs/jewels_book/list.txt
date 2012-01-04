@@ -1,0 +1,8 @@
+jewel_1.png
+jewel_2.png
+jewel_3.png
+jewel_4.png
+jewel_5.png
+jewel_6.png
+jewel_7.png
+jewel_8.png
