@@ -9,7 +9,7 @@ sidebar: false
 ---
 
 Lors de chaque apéro, nous déposons sur une table des feuilles de papier
-et des marqueurs pour que celui qui veut laisse une trace.
+et des marqueurs pour celui qui veut laisser une trace.
 
 Voici ces traces.
 
