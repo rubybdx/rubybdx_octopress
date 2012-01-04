@@ -30,7 +30,7 @@ $('.thumbnail').live('click', function(){
   App.datas.set('current_image',this.src);
   $('#big_image').fadeIn(function(){
     $('#big_image img').css('margin-left',"-"+ $('#big_image img').get(0).width/2+"px");
-    $('#big_image img').css('margin-top',"-"+ $('#big_image img').get(0).height/2+"px");
+//    $('#big_image img').css('margin-top',"-"+ $('#big_image img').get(0).height/2+"px");
     $('#big_image img').fadeIn()
   });
 });
