@@ -7,11 +7,22 @@ sharing: true
 footer: true
 sidebar: false
 ---
+Mardi 10 Janvier 2012
+=
+[Ruby 1.9 - Quelques nouveautés(part#2)](/presentations/2012-01-10-yarmand/)
+-
+Auteur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://twitter.com/#!/yarmand))
+
+<iframe src='/presentations/2012-01-10-yarmand/' style='width:900px;height:700px;'></iframe>
+
+<hr />
+
+
 
 Mardi 6 Décembre 2011
 =
 
-[Ruby 1.9 - Quelques nouveautés](/presentations/2011-12-06-yarmand/)
+[Ruby 1.9 - Quelques nouveautés(part #1)](/presentations/2011-12-06-yarmand/)
 -
 Auteur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://twitter.com/#!/yarmand))
 

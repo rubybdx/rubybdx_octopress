@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<!--
+  Google HTML5 slide template
+
+  Authors: Luke Mahé (code)
+           Marcin Wichary (code and design)
+           
+           Dominic Mazzoni (browser compatibility)
+           Charles Chen (ChromeVox support)
+
+  URL: http://code.google.com/p/html5slides/
+-->
+
+<html>
+  <head>
+    <title>Presentation</title>
+
+    <meta charset='utf-8'>
+    <script src='slides.js'></script>
+  </head>
+  
+  <style>
+    /* Your individual styles here, or just use inline styles if that’s
+       what you want. */
+    
+    
+  </style>
+
+  <body style='display: none'>
+    <img src="images/rubybdx.jpeg" style="position:absolute;top:578px;left:991px;z-index:100">
+
+    <section class='slides layout-regular template-default'>
+      
+      <!-- Your slides (<article>s) go here. Delete or comment out the
+           slides below. -->
+        
+        
+      
+      <article>
+        <h1>Ruby 1.9</h1>
+        <h3>Quelques nouveautés <br/> Partie #2</h3>
+        <h2>Apéro Ruby Bordeaux (rubybdx) <br/> 20012-01-10 <br/>Yann ARMAND</h2>
+      </article>
+
+      <article>
+        <h2>
+          Aperçut rapide
+        </h2>
+        <div>
+          <h3>Partie #1</h3>
+          <ul class="done">
+           <li>
+             Nouvelle machine virtuelle => YARV
+           </li>
+           <li>
+             Nouveautés et changements syntaxiques
+           </li>
+           <li>
+             Fermetures et lambda
+           </li>
+          </ul>
+       </div>
+        <div class="build">
+          <h3>Partie #2</h3>
+        </div>
+        <ul class="build">
+          <li>
+            Objets de bases et nouveaux comportements
+          </li>
+          <li>
+            parallélisme simplifié => Fiber
+          </li>
+          <li>
+            Groupes de RegExp nommés
+          </li>
+        </ul>
+
+      </article>
+
+      <article class="smaller">
+        <h2>
+          Objets de bases et nouveaux comportements
+        </h2>
+        <h3>
+          BasicObject : comment faire moins ?
+        </h3>
+        <ul class="build">
+          <li>
+            Les briques de bases de Ruby
+            <pre class="prettyprint">
+1.8 => [Class, Module, Object, Kernel]
+1.9 => [Class, Module, Object, Kernel, BasicObject]
+            </pre>
+          </li>
+           <li>
+            Object et BasicObject
+            <pre class="prettyprint">
+>> BasicObject.ancestors
+=> [BasicObject]
+
+>> Object.ancestors
+=> [Object, Kernel, BasicObject]
+            </pre>
+         </li>
+       </ul>
+      </article>
+
+      <article class="smaller">
+      <ul class="build">
+          <li>
+            <pre class="prettyprint">
+>> BasicObject.instance_methods
+=> [:==, :equal?, :!, :!=, :instance_eval, :instance_exec, :__send__, :__id__]
+            </pre>
+          </li>
+          <li>
+            <pre class="prettyprint">
+>> Object.instance_methods
+=> [:nil?, :===, :=~, :!~, :eql?, :hash, :<=>, :class, :singleton_class, :clone, 
+    :dup, :initialize_dup, :initialize_clone, :taint, :tainted?, :untaint, :untrust,
+    :untrusted?, :trust, :freeze, :frozen?, :to_s, :inspect, :methods, :singleton_methods,
+    :protected_methods, :private_methods, :public_methods, :instance_variables, :instance_variable_get,
+    :instance_variable_set, :instance_variable_defined?, :instance_of?, :kind_of?, :is_a?, :tap, :send,
+    :public_send, :respond_to?, :respond_to_missing?, :extend, :display, :method, :public_method,
+    :define_singleton_method, :object_id, :to_enum, :enum_for, :==, :equal?, :!, :!=, :instance_eval,
+    :instance_exec, :__send__, :__id__]
+            </pre>
+         </li>
+
+         <li>
+           <code>instance_methods</code> retourne maintenant un Array de <strong>Symbols</strong>
+         </li>
+         <li>
+           On appel maintenant <code>method_defined? :symbol</code> sur une classe plutôt que <code>instance_methods.include?</code>
+            <pre class="prettyprint">
+>> a = Array.new
+>> a.class.method_defined? :size
+=> true
+            </pre>
+          </li>
+       </ul>
+      </article>
+
+      <article class="smaller">
+      <ul class="build">
+          <li>
+            Les arguments concatennables en Array (<strong>Splats</strong>) peuvent être placés n'importe où dans la définition de méthode.
+            <pre class="prettyprint">
+>> def foo(a,*b,c)
+            </pre>
+          </li>
+           <li>
+            Introduction des <strong>Enumerator</strong>
+            <pre class="prettyprint">
+>> enum = (1..3).to_enum
+=> #&ltEnumerator:0x1344a8&gt
+>> enum.each{|i| puts i}
+1
+2
+3
+=> 1..4
+>> enum.next
+=> 1
+           </pre>
+          </li>
+          <li>
+            La plupart des méthodes du module <strong>Enumerable</strong> renvoient un <strong>Enumerator</strong>
+            <pre class="prettyprint">
+>> enum = (1..4).each
+=> #&ltEnumerator:0x12627c&gt
+            </pre>
+          </li>
+       </ul>
+      </article>
+
+
+
+      <article class="small">
+        <h2>
+          parallélisme simplifié => Fiber
+        </h2>
+        <h3>
+          Fiber qui es tu ?
+        </h3>
+        <ul class="build">
+          <li>
+            Mécanisme hybride entre <strong>Enumerator</strong> et <strong>Thread</strong>
+          </li>
+          <li>
+            L'exécution s'interrompt à chaque renvoi de valeur (<code>yield</code>)
+          </li>
+          <li>
+            A chaque <code>yield</code> le <code>Fiber</code> sauvegarde sont état, se suspend et le contrôle retourne à l'appelant.
+          </li>
+          <li>
+            L'appelant rend la main au <code>Fiber</code> puis récupère la valeur de retour grâce à la méthode <code>resume</code>
+          </li>
+          <li>
+            Mécanisme <strong>non concurrent</strong> introduisant un nouveau style de découplage. Cela permet l'écriture de petites portions de <strong>code réutilisables</strong>.
+          </li>
+
+        </ul>
+     </article>
+
+      <article class="small build">
+       <p>
+         On peut utiliser des variables pour appeler le Fiber avec <code>resume</code>
+       </p>
+       <pre class="prettyprint">
+fp = Fiber.new do |nom|
+  Fiber.yield "#{nom} est un zombie stupide"
+  Fiber.yield "#{nom} est aussi un zombie stupide"
+end
+
+>> puts fb.resume "Yann"
+=> yann est un zombie stupide
+>> puts fb.resume "Bastien"
+=> Bastien est aussi un zombie stupide
+       </pre>
+        </ul>
+     </article>
+
+      <article class="small build">
+       <p>
+         <code>yield</code> prend un <code>Array</code> et renvoi chaque valeur une par une.<br />
+         exemple : lire un fichier en le découpant mot à mot
+       </p>
+       <pre class="prettyprint">
+#!/usr/bin/env ruby
+
+def read_netlist(file)
+  Fiber.new do
+    f = File.open( file, 'r' )
+
+    until f.eof
+      Fiber.yield( f.read.split(/ /) )
+    end
+  end
+end
+
+fib = read_netlist('netlist.txt')
+
+while true do
+  puts fib.resume
+end
+       </pre>
+     </article>
+
+      <article class= "smaller">
+        <h2>
+          Groupes de RegExp nommés
+        </h2>
+        <h3>Avantages</h3>
+        <ul class="build">
+          <li>
+            Rende une regexp lisible en nommant ses sous ensembles
+          </li>
+          <li>
+            définir des blocs réutilisables
+          </li>
+          <li>
+            Mécanisme de réécriture proche des grammaires LR
+          </li>
+        </ul>
+        <h3>Fonctionnement</h3>
+        <ul class="build">
+          <li>
+            définition avec <code>?&ltnom&gt</code>, usage avec <code>/g&ltnom&gt</code>
+            <pre class="prettyprint">
+%r{
+  (?&ltusername&gt [a-z]+ ){0}
+
+  /g&ltusername&gt
+}x
+             </pre>
+          </li>
+       </ul>
+        </pre>
+      </article>
+
+      <article class="smaller">
+        <p>
+          Exemple : Parsing d'une liste d'utilisateurs
+        </p>
+        <pre class="prettyprint">
+#!/usr/bin/env ruby
+
+users = %w{
+  alice:10.23.52.112:true
+  bob:192.168.10.34:false
+}
+
+user_regexp = %r{
+  (?&ltusername&gt [a-z]+ ){0}
+
+  (?&ltip_number&gt [0-9]{1,3} ){0}
+  (?&ltip_address&gt (\g&ltip_number&gt\.){3}\g&ltip_number&gt ){0}
+
+  (?&ltadmin&gt true | false ){0}
+
+  \g&ltusername&gt:\g&ltip_address&gt:\g&ltadmin&gt
+}x
+
+users.each do|u|
+  r = user_regexp.match(u)
+  puts "User #{r[:username]} is from #{r[:ip_address]}"
+end
+        </pre>
+      </article>
+
+      <article>
+        <h2>Merci !</h2>
+        <img src="images/avatar_choupi.jpg" style="float:right;width:400px"/>
+        <h3>yann ARMAND</h3>
+        <p><a href="http://blog.harakys.fr">http://blog.harakys.com</a></p>
+        <p><a href="http://www.twitter.com/#!/yarmand">@yarmand</a></p>
+      </article>
+
+    </section>
+
+  </body>
+</html>
