@@ -17,7 +17,11 @@ Auteur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://twitter.com/#!/
 
 <hr />
 
+[Créer son API avec Ruby](http://www.slideshare.net/pierrerenaudin/apro-ruby-bordeaux-crer-son-api-avec-ruby-9-01-2012)
+-
+Auteurs: Rafaël AUDET [@raphael_audet](http://twitter.com/#!/raphael_audet) et [Pierre RENAUDIN](http://www.azendoo.com)   [@pierrerenaudin](http://twitter.com/#!/pierrerenaudin)
 
+<div style="width:425px" id="__ss_10938047"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/pierrerenaudin/apro-ruby-bordeaux-crer-son-api-avec-ruby-9-01-2012" title="Apéro ruby bordeaux créer son api avec ruby - 9 01 2012 " target="_blank">Apéro ruby bordeaux créer son api avec ruby - 9 01 2012 </a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/10938047" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/pierrerenaudin" target="_blank">pierrerenaudin</a> </div> </div>
 
 Mardi 6 Décembre 2011
 =
