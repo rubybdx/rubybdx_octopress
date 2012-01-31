@@ -3,14 +3,22 @@ var App = Em.Application.create();
 App.datas = Ember.Object.create({
   images_path: './scans',
   current_image: "",
- file : [ { filename: 'jewel_1.png' },
-  { filename: 'jewel_2.png' },
-  { filename: 'jewel_3.png' },
-  { filename: 'jewel_4.png' },
-  { filename: 'jewel_5.png' },
-  { filename: 'jewel_6.png' },
-  { filename: 'jewel_7.png' },
-  { filename: 'jewel_8.png' } ]
+  file : [ 
+{ filename: 'jewel_01.png' },
+{ filename: 'jewel_02.png' },
+{ filename: 'jewel_03.png' },
+{ filename: 'jewel_04.png' },
+{ filename: 'jewel_05.png' },
+{ filename: 'jewel_06.png' },
+{ filename: 'jewel_07.png' },
+{ filename: 'jewel_08.png' },
+{ filename: 'jewel_09.jpeg' },
+{ filename: 'jewel_10.jpeg' },
+{ filename: 'jewel_11.jpeg' },
+{ filename: 'jewel_12.jpeg' },
+{ filename: 'jewel_13.jpeg' },
+{ filename: 'jewel_14.jpeg' }
+  ]
 });
 
 App.MyView = Em.View.extend({
@@ -30,7 +38,7 @@ $('.thumbnail').live('click', function(){
   App.datas.set('current_image',this.src);
   $('#big_image').fadeIn(function(){
     $('#big_image img').css('margin-left',"-"+ $('#big_image img').get(0).width/2+"px");
-//    $('#big_image img').css('margin-top',"-"+ $('#big_image img').get(0).height/2+"px");
+    //    $('#big_image img').css('margin-top',"-"+ $('#big_image img').get(0).height/2+"px");
     $('#big_image img').fadeIn()
   });
 });
