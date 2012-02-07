@@ -4,13 +4,23 @@
   <title>Ruby à Bordeaux</title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2012-01-31T15:28:31+01:00</updated>
+  <updated>2012-02-07T16:39:45+01:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
     <name>Yann ARMAND</name>
     
   </author>
 
+  
+  <entry>
+    <title>Apéro De Fevrier Dans Un Nouveau Lieu</title>
+    <link href="http://www.rubybdx.org/blog/2012/02/07/apero-de-fevrier-dans-un-nouveau-lieu/"/>
+    <updated>2012-02-07T16:36:00+01:00</updated>
+    <id>http://www.rubybdx.org/blog/2012/02/07/apero-de-fevrier-dans-un-nouveau-lieu</id>
+    <content type="html">&lt;p&gt;Notre lieu de rencontre historique ayant fermé définitivement, nous nous
+retrouverons ce soir au &lt;a href=&quot;http://www.qype.fr/place/228853-Cambridge-Arms-Bordeaux&quot;&gt;Cambridge Arm&lt;/a&gt; comme d&amp;#8217;habitude à 19h.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Apéro De Janvier Le 10</title>
