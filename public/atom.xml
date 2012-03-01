@@ -4,13 +4,38 @@
   <title>Ruby à Bordeaux</title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2012-02-07T16:39:45+01:00</updated>
+  <updated>2012-03-01T18:33:19+01:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
     <name>Yann ARMAND</name>
     
   </author>
 
+  
+  <entry>
+    <title>Apéro De Mars</title>
+    <link href="http://www.rubybdx.org/blog/2012/03/01/apero-de-mars/"/>
+    <updated>2012-03-01T18:22:00+01:00</updated>
+    <id>http://www.rubybdx.org/blog/2012/03/01/apero-de-mars</id>
+    <content type="html">&lt;p&gt;Ce moi-ci, &lt;strong&gt;mardi 6 mars&lt;/strong&gt;, nous reprenons le fonctionnement habituel avec
+présentations et discussions informelles.&lt;/p&gt;
+
+&lt;p&gt;Nous nous retrouverons à 19h au &lt;a href=&quot;http://www.plaza-chartrons.com/&quot;&gt;Plaza Chartrons&lt;/a&gt;, 15 Rue Rode 33300 Bordeaux.&lt;/p&gt;
+
+&lt;p&gt;&lt;html&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;600&quot; height=&quot;350&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;http://maps.google.fr/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=plaza+chartons,+15+Rue+Rode,+33300+Bordeaux&amp;amp;aq=&amp;amp;sll=44.854043,-0.570302&amp;amp;sspn=0.009203,0.01929&amp;amp;ie=UTF8&amp;amp;hq=plaza+chartons,&amp;amp;hnear=15+Rue+Rod%C3%A9,+33000+Bordeaux,+Gironde,+Aquitaine&amp;amp;ll=44.852568,-0.572212&amp;amp;spn=0.006295,0.006295&amp;amp;t=m&amp;amp;output=embed&quot;&gt;&lt;/iframe&gt;
+
+
+&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;http://maps.google.fr/maps?f=q&amp;amp;source=embed&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=plaza+chartons,+15+Rue+Rode,+33300+Bordeaux&amp;amp;aq=&amp;amp;sll=44.854043,-0.570302&amp;amp;sspn=0.009203,0.01929&amp;amp;ie=UTF8&amp;amp;hq=plaza+chartons,&amp;amp;hnear=15+Rue+Rod%C3%A9,+33000+Bordeaux,+Gironde,+Aquitaine&amp;amp;ll=44.852568,-0.572212&amp;amp;spn=0.006295,0.006295&amp;amp;t=m&quot; style=&quot;color:#0000FF;text-align:left&quot;&gt;View Larger Map&lt;/a&gt;&lt;/small&gt;
+
+
+&lt;p&gt;&lt;/html&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour ceux qui viennent en voiture, prévoyez un parking sur les quais ou
+place Ravezies et un petit coup de Tram.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Apéro De Fevrier Dans Un Nouveau Lieu</title>
