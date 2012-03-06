@@ -7,6 +7,15 @@ sharing: true
 footer: true
 sidebar: false
 ---
+Mardi 6 mars 2012
+=
+[Behavior Driven Development with Cucumber](http://prezi.com/ru_jhecoaolr/behavior-driven-development-with-cucumber/)
+-
+Auteur: [Bastien GALLAY](http://crowdbuzzing.com/) [@bastien_gallay](http://twitter.com/#!/bastien_gallay)
+
+
+<div class="prezi-player"><style type="text/css" media="screen">.prezi-player { width: 900px; } .prezi-player-links { text-align: center; }</style><object id="prezi_ru_jhecoaolr" name="prezi_ru_jhecoaolr" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="900" height="700"><param name="movie" value="http://prezi.com/bin/preziloader.swf"/><param name="allowfullscreen" value="true"/><param name="allowscriptaccess" value="always"/><param name="bgcolor" value="#ffffff"/><param name="flashvars" value="prezi_id=ru_jhecoaolr&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0"/><embed id="preziEmbed_ru_jhecoaolr" name="preziEmbed_ru_jhecoaolr" src="http://prezi.com/bin/preziloader.swf" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="900" height="700" bgcolor="#ffffff" flashvars="prezi_id=ru_jhecoaolr&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0"></embed></object><div class="prezi-player-links"><p><a title="Behavior Driven Development with Cucumber" href="http://prezi.com/ru_jhecoaolr/behavior-driven-development-with-cucumber/">Behavior Driven Development with Cucumber</a> on <a href="http://prezi.com">Prezi</a></p></div></div>
+
 Mardi 10 Janvier 2012
 =
 [Ruby 1.9 - Quelques nouveautés(part#2)](/presentations/2012-01-10-yarmand/)
