@@ -5,6 +5,7 @@
 .gist-cache
 .pygments-cache
 .bin
+.rvmrc
 _deploy
 sass.old
 source.old
