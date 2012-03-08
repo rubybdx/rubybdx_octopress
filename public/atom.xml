@@ -4,13 +4,34 @@
   <title>Ruby à Bordeaux</title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2012-03-08T01:12:29+01:00</updated>
+  <updated>2012-03-08T01:34:29+01:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
     <name>Yann ARMAND</name>
     
   </author>
 
+  
+  <entry>
+    <title>Nouveauté sur RubyBDX: Les Vidéos</title>
+    <link href="http://www.rubybdx.org/blog/2012/03/08/nouveaute-sur-rubybdx-les-videos/"/>
+    <updated>2012-03-08T01:16:00+01:00</updated>
+    <id>http://www.rubybdx.org/blog/2012/03/08/nouveaute-sur-rubybdx-les-videos</id>
+    <content type="html">&lt;p&gt;Afin de faire profiter à tous d&amp;#8217;un maximum de ressources produites par
+notre groupe, nous inaugurons ce moi-ci la captation des présentations et
+démos via &lt;a href=&quot;http://www.telestream.net/screen-flow/overview.htm&quot;&gt;ScreenFlow&lt;/a&gt; ce qui permet:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;de profiter quand même du moment pour les absents&lt;/li&gt;
+&lt;li&gt;de bénéficier du feedback de l&amp;#8217;assemblée.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Nous continueront bien sur à mettre aussi en ligne les fichiers de prez.&lt;/p&gt;
+
+&lt;p&gt;rendez-vous dans &lt;a href=&quot;http://www.rubybdx.org/presentations/index.html#2010_06_03_bastien&quot;&gt;les présentations du dernier apéro&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Apéro De Mars</title>
