@@ -17,7 +17,12 @@ App.datas = Ember.Object.create({
 { filename: 'jewel_11.jpeg' },
 { filename: 'jewel_12.jpeg' },
 { filename: 'jewel_13.jpeg' },
-{ filename: 'jewel_14.jpeg' }
+{ filename: 'jewel_14.jpeg' },
+{ filename: 'jewel_15.png' },
+{ filename: 'jewel_16.png' },
+{ filename: 'jewel_17.png' },
+{ filename: 'jewel_18.png' },
+{ filename: 'jewel_19.png' }
   ]
 });
 

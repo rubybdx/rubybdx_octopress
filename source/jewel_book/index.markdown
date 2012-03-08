@@ -13,6 +13,6 @@ et des marqueurs pour celui qui veut laisser une trace.
 
 Voici ces traces.
 
-<iframe src='book.html' style='width:900px;height:700px;'></iframe>
+<iframe src='book.html' style='width:100%;height:900px;'></iframe>
 
 
