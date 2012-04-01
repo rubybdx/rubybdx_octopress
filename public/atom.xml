@@ -4,13 +4,28 @@
   <title>Ruby à Bordeaux</title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2012-03-08T14:28:51+01:00</updated>
+  <updated>2012-04-01T23:03:12+02:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
     <name>Yann ARMAND</name>
     
   </author>
 
+  
+  <entry>
+    <title>Apero d&#8217;Avril</title>
+    <link href="http://www.rubybdx.org/blog/2012/04/01/apero-avril/"/>
+    <updated>2012-04-01T22:55:00+02:00</updated>
+    <id>http://www.rubybdx.org/blog/2012/04/01/apero-avril</id>
+    <content type="html">&lt;p&gt;Ce moi-ci comme pour le moi dernier, nous nous retrouverons le &lt;strong&gt;mardi 3 avril&lt;/strong&gt; à 19h au &lt;a href=&quot;http://www.plaza-chartrons.com/&quot;&gt;Plaza Chartrons&lt;/a&gt;, 15 Rue Rode 33300 Bordeaux.&lt;/p&gt;
+
+&lt;p&gt;Au programme des présentations :&lt;/p&gt;
+
+&lt;p&gt;. Présentation de Data Cortext Incubation
+. Programmation d&amp;#8217;un Wiki en 20 minutes avec Amstrong
+. Gestion avancé de log en environnement de déploiement Bamboo&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Nouveauté sur RubyBDX: Les Vidéos</title>
