@@ -4,7 +4,7 @@
   <title>Ruby à Bordeaux</title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2012-04-01T23:07:38+02:00</updated>
+  <updated>2012-04-03T10:49:39+02:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
     <name>Yann ARMAND</name>
@@ -22,9 +22,9 @@
 &lt;p&gt;Au programme des présentations :&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Présentation de Data Cortext Incubation&lt;/li&gt;
-&lt;li&gt;Programmation d&amp;#8217;un Wiki en 20 minutes avec Amstrong&lt;/li&gt;
-&lt;li&gt;Gestion avancé de log en environnement de déploiement Bamboo&lt;/li&gt;
+&lt;li&gt;Programmation d&amp;#8217;un Wiki en 20 minutes avec Sinatra&lt;/li&gt;
+&lt;li&gt;Présentation de Redis&lt;/li&gt;
+&lt;li&gt;Gestion avancé de log en environnement de déploiement&lt;/li&gt;
 &lt;/ul&gt;
 
 </content>

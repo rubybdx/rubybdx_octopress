@@ -9,8 +9,8 @@ Ce moi-ci comme pour le moi dernier, nous nous retrouverons le **mardi 3 avril**
 
 Au programme des présentations :
 
-- Présentation de Data Cortext Incubation
-- Programmation d'un Wiki en 20 minutes avec Amstrong
-- Gestion avancé de log en environnement de déploiement Bamboo
+- Programmation d'un Wiki en 20 minutes avec Sinatra
+- Présentation de Redis
+- Gestion avancé de log en environnement de déploiement
 
 
