@@ -9,6 +9,11 @@ sidebar: false
 ---
 Sommaire
 =
+Mardi 3 Avril 2012 (avec vidéos)
+-
+- [Programmer un wiki en 20 minutes avec Sinatra (Yann ARMAND)](#2012_04_03_yann)
+- [Redis et ses amis (Damian Le NOUAILLE)](#2010_04_03_Damian)
+
 Mardi 6 mars 2012 (avec vidéos)
 -
 - [Behavior Driven Development with Cucumber (Bastien GALLAY)](#2010_03_06_bastien)
@@ -32,7 +37,25 @@ Mardi 8 Novembre 2011
 - [MongoDB et Map Reduce (Pierre-Louis GOTFROIS et Bastien MURZEAU)](#2011_11_08_plouis_bastien)
 - [Epycea (Damian LE NOUAILLE)](#2011_11_08_damian)
 
+<hr />
 
+Mardi 3 Avril 2012 (avec vidéos)
+-
+<a name='2012_04_03_yann' />
+[Programmer un wiki en 20 minutes avec Sinatra (Yann ARMAND)](/presentations/2012-01-10-yarmand/)
+-
+Auteur: [Yann ARMAND](http://www.harakys.com) ([@yarmand](http://twitter.com/#!/yarmand))
+
+Le repository avec un commit correspondant à chaque étape de cette
+présentation est disponible sur le compte [github de rubybdx](https://github.com/rubybdx/rikiki-steped)
+
+<iframe src="http://player.vimeo.com/video/39787437" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<a name='2010_04_03_Damian' />
+[Redis et ses amis (Damian Le NOUAILLE)](http://www.slideshare.net/damln/redis-12277880)
+-
+Auteur: [Damian LE NOUAILLE](http://dln.name/) ([@damln](http://twitter.com/#!/damln))
+<div style="width:595px" id="__ss_12277880"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/damln/redis-12277880" title="Redis" target="_blank">Redis</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/12277880" width="595" height="497" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/damln" target="_blank">Damian Le Nouaille</a> </div> </div>
 <hr />
 
 Mardi 6 mars 2012
