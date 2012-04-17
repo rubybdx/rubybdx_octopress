@@ -17,4 +17,4 @@ Tout le monde, la seule condition étant l'intérêt porté au sujet. L'objectif
 Alors... pourquoi un apéro Ruby à Bordeaux?
 Avant tout parce qu'il n'y en a pas encore. Ensuite, parce que nous savons que de nombreux rubyistes peuplent Bordeaux et ses environs. Nous sommes aussi persuadés que ceux-ci souhaitent promouvoir Ruby, échanger, rencontrer d'autres personnes. Enfin, parce que, d'une manière générale, il est nécessaire de multiplier les rencontres autour des technologies informatiques, surtout alternatives.
 
-Twitter : [@rubybdx](http://twitter.com/#!/rubybdx) (et #rubybdx pour vos tweet)
+Twitter : [@rubybdx](http://twitter.com/#!/rubybdx)
