@@ -4,13 +4,29 @@
   <title>Ruby à Bordeaux</title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2012-04-17T15:45:39+02:00</updated>
+  <updated>2012-04-24T22:55:56+02:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
     <name>Yann ARMAND</name>
     
   </author>
 
+  
+  <entry>
+    <title>Apéro De Mai</title>
+    <link href="http://www.rubybdx.org/blog/2012/04/24/apero-de-mai/"/>
+    <updated>2012-04-24T22:49:00+02:00</updated>
+    <id>http://www.rubybdx.org/blog/2012/04/24/apero-de-mai</id>
+    <content type="html">&lt;p&gt;En cette période électorale, nous n&amp;#8217;avons pas résisté à l&amp;#8217;envie de
+soumettre la date de l&amp;#8217;apéro de Mai au votation puisque le premier mardi
+est férié.&lt;/p&gt;
+
+&lt;p&gt;Nous avons utilisé pour ce faire un vote en &lt;a href=&quot;http://en.wikipedia.org/wiki/Condorcet_method&quot;&gt;méthode condorcet&lt;/a&gt; que vous trouverez
+sur &lt;a href=&quot;http://voteer.com/polls/3d854d39-0c31-4b23-adc5-02b418b2c891&quot;&gt;voteer.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nous nous réunirons donc le &lt;strong&gt;Mercredi 2 Mai&lt;/strong&gt; à 19h au &lt;a href=&quot;http://www.plaza-chartrons.com/&quot;&gt;Plaza Chartrons&lt;/a&gt;, 15 Rue Rode 33300 Bordeaux.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Apero d&#8217;Avril</title>
