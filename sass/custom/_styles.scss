@@ -1,2 +1,31 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+#logo {
+  float: left;
+  width: 150px;
+  margin-right: 1em;
+  img {
+    width: 150px;
+   }
+} 
+
+#mailing_list {
+  float: right;
+  width: 300px;
+  padding: 0.6em;
+  color: #333;
+  background-color: white;
+  font-size: 0.6em;
+  @include border-radius(.5em);
+  @include background-clip(padding-box);
+  @include box-shadow(#555 2px 2px);
+  .googleGroupsLogo {
+  	height: 20px;
+  	margin-left: 1em;
+  	vertical-align: middle;
+  }
+  .googleGroupsLink {
+  	text-decoration: none;
+  }
+}
