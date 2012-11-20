@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Evenement | Ruby à Bordeaux]]></title>
+  <link href="http://www.rubybdx.org/blog/categories/evenement/atom.xml" rel="self"/>
+  <link href="http://www.rubybdx.org/"/>
+  <updated>2012-11-20T21:38:16+01:00</updated>
+  <id>http://www.rubybdx.org/</id>
+  <author>
+    <name><![CDATA[Yann ARMAND, Josselin AUGUSTE]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Premier Apéro Ruby à Bordeaux]]></title>
+    <link href="http://www.rubybdx.org/blog/2011/11/02/premier-apero-ruby-a-bordeaux/"/>
+    <updated>2011-11-02T13:49:00+01:00</updated>
+    <id>http://www.rubybdx.org/blog/2011/11/02/premier-apero-ruby-a-bordeaux</id>
+    <content type="html"><![CDATA[<p>Nous avons le plaisir d'annoncer la tenue du premier apéro Ruby au <a href="http://www.bordeauxcafe.com/fr/lieux/22490-ship-and-anchor">Ship and anchor</a>, le mardi 8 Novembre à partir de 19h.</p>
+
+<p>Comme il s'agit du premier du genre, nous souhaitons qu'il soit le moins formel possible avec une audience la plus large possible, alors que vous soyez Rubyiste vétéran, débutant ou simplement intéressé par ce langage et un bon apéro, venez donc prendre un verre avec nous.</p>
+
+<p>Vous pouvez nous indiquer votre présence <a href="https://www.facebook.com/event.php?eid=210643199009006">sur la page facebook</a></p>
+]]></content>
+  </entry>
+  
+</feed>

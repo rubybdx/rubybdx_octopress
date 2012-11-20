@@ -1,204 +1,205 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Ruby à Bordeaux</title>
+  <title><![CDATA[Ruby à Bordeaux]]></title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2012-04-24T22:55:56+02:00</updated>
+  <updated>2012-11-20T21:38:16+01:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
-    <name>Yann ARMAND</name>
+    <name><![CDATA[Yann ARMAND, Josselin AUGUSTE]]></name>
     
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title>Apéro De Mai</title>
+    <title type="html"><![CDATA[Apéro De Mai]]></title>
     <link href="http://www.rubybdx.org/blog/2012/04/24/apero-de-mai/"/>
     <updated>2012-04-24T22:49:00+02:00</updated>
     <id>http://www.rubybdx.org/blog/2012/04/24/apero-de-mai</id>
-    <content type="html">&lt;p&gt;En cette période électorale, nous n&amp;#8217;avons pas résisté à l&amp;#8217;envie de
-soumettre la date de l&amp;#8217;apéro de Mai au votation puisque le premier mardi
-est férié.&lt;/p&gt;
+    <content type="html"><![CDATA[<p>En cette période électorale, nous n&#8217;avons pas résisté à l&#8217;envie de
+soumettre la date de l&#8217;apéro de Mai au votation puisque le premier mardi
+est férié.</p>
 
-&lt;p&gt;Nous avons utilisé pour ce faire un vote en &lt;a href=&quot;http://en.wikipedia.org/wiki/Condorcet_method&quot;&gt;méthode condorcet&lt;/a&gt; que vous trouverez
-sur &lt;a href=&quot;http://voteer.com/polls/3d854d39-0c31-4b23-adc5-02b418b2c891&quot;&gt;voteer.com&lt;/a&gt;.&lt;/p&gt;
+<p>Nous avons utilisé pour ce faire un vote en <a href="http://en.wikipedia.org/wiki/Condorcet_method">méthode condorcet</a> que vous trouverez
+sur <a href="http://voteer.com/polls/3d854d39-0c31-4b23-adc5-02b418b2c891">voteer.com</a>.</p>
 
-&lt;p&gt;Nous nous réunirons donc le &lt;strong&gt;Mercredi 2 Mai&lt;/strong&gt; à 19h au &lt;a href=&quot;http://www.plaza-chartrons.com/&quot;&gt;Plaza Chartrons&lt;/a&gt;, 15 Rue Rode 33300 Bordeaux.&lt;/p&gt;
-</content>
+<p>Nous nous réunirons donc le <strong>Mercredi 2 Mai</strong> à 19h au <a href="http://www.plaza-chartrons.com/">Plaza Chartrons</a>, 15 Rue Rode 33300 Bordeaux.</p>
+]]></content>
   </entry>
   
   <entry>
-    <title>Apero d&#8217;Avril</title>
+    <title type="html"><![CDATA[Apero d'Avril]]></title>
     <link href="http://www.rubybdx.org/blog/2012/04/01/apero-avril/"/>
     <updated>2012-04-01T22:55:00+02:00</updated>
     <id>http://www.rubybdx.org/blog/2012/04/01/apero-avril</id>
-    <content type="html">&lt;p&gt;Ce moi-ci comme pour le moi dernier, nous nous retrouverons le &lt;strong&gt;mardi 3 avril&lt;/strong&gt; à 19h au &lt;a href=&quot;http://www.plaza-chartrons.com/&quot;&gt;Plaza Chartrons&lt;/a&gt;, 15 Rue Rode 33300 Bordeaux.&lt;/p&gt;
+    <content type="html"><![CDATA[<p>Ce moi-ci comme pour le moi dernier, nous nous retrouverons le <strong>mardi 3 avril</strong> à 19h au <a href="http://www.plaza-chartrons.com/">Plaza Chartrons</a>, 15 Rue Rode 33300 Bordeaux.</p>
 
-&lt;p&gt;Au programme des présentations :&lt;/p&gt;
+<p>Au programme des présentations :</p>
 
-&lt;ul&gt;
-&lt;li&gt;Programmation d&amp;#8217;un Wiki en 20 minutes avec Sinatra&lt;/li&gt;
-&lt;li&gt;Présentation de Redis&lt;/li&gt;
-&lt;li&gt;Gestion avancé de log en environnement de déploiement&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Programmation d&#8217;un Wiki en 20 minutes avec Sinatra</li>
+<li>Présentation de Redis</li>
+<li>Gestion avancé de log en environnement de déploiement</li>
+</ul>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Nouveauté sur RubyBDX: Les Vidéos</title>
+    <title type="html"><![CDATA[Nouveauté sur RubyBDX: Les Vidéos]]></title>
     <link href="http://www.rubybdx.org/blog/2012/03/08/nouveaute-sur-rubybdx-les-videos/"/>
     <updated>2012-03-08T01:16:00+01:00</updated>
     <id>http://www.rubybdx.org/blog/2012/03/08/nouveaute-sur-rubybdx-les-videos</id>
-    <content type="html">&lt;p&gt;Afin de faire profiter à tous d&amp;#8217;un maximum de ressources produites par
+    <content type="html"><![CDATA[<p>Afin de faire profiter à tous d&#8217;un maximum de ressources produites par
 notre groupe, nous inaugurons ce moi-ci la captation des présentations et
-démos via &lt;a href=&quot;http://www.telestream.net/screen-flow/overview.htm&quot;&gt;ScreenFlow&lt;/a&gt; ce qui permet:&lt;/p&gt;
+démos via <a href="http://www.telestream.net/screen-flow/overview.htm">ScreenFlow</a> ce qui permet:</p>
 
-&lt;ul&gt;
-&lt;li&gt;de profiter quand même du moment pour les absents&lt;/li&gt;
-&lt;li&gt;de bénéficier du feedback de l&amp;#8217;assemblée.&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>de profiter quand même du moment pour les absents</li>
+<li>de bénéficier du feedback de l&#8217;assemblée.</li>
+</ul>
 
 
-&lt;p&gt;Nous continueront bien sur à mettre aussi en ligne les fichiers de prez.&lt;/p&gt;
+<p>Nous continueront bien sur à mettre aussi en ligne les fichiers de prez.</p>
 
-&lt;p&gt;rendez-vous dans &lt;a href=&quot;http://www.rubybdx.org/presentations/index.html#2010_06_03_bastien&quot;&gt;les présentations du dernier apéro&lt;/a&gt;&lt;/p&gt;
-</content>
+<p>rendez-vous dans <a href="http://www.rubybdx.org/presentations/index.html#2010_06_03_bastien">les présentations du dernier apéro</a></p>
+]]></content>
   </entry>
   
   <entry>
-    <title>Apéro De Mars</title>
+    <title type="html"><![CDATA[Apéro De Mars]]></title>
     <link href="http://www.rubybdx.org/blog/2012/03/01/apero-de-mars/"/>
     <updated>2012-03-01T18:22:00+01:00</updated>
     <id>http://www.rubybdx.org/blog/2012/03/01/apero-de-mars</id>
-    <content type="html">&lt;p&gt;Ce moi-ci, &lt;strong&gt;mardi 6 mars&lt;/strong&gt;, nous reprenons le fonctionnement habituel avec
-présentations et discussions informelles.&lt;/p&gt;
+    <content type="html"><![CDATA[<p>Ce moi-ci, <strong>mardi 6 mars</strong>, nous reprenons le fonctionnement habituel avec
+présentations et discussions informelles.</p>
 
-&lt;p&gt;Nous nous retrouverons à 19h au &lt;a href=&quot;http://www.plaza-chartrons.com/&quot;&gt;Plaza Chartrons&lt;/a&gt;, 15 Rue Rode 33300 Bordeaux.&lt;/p&gt;
+<p>Nous nous retrouverons à 19h au <a href="http://www.plaza-chartrons.com/">Plaza Chartrons</a>, 15 Rue Rode 33300 Bordeaux.</p>
 
-&lt;p&gt;&lt;html&gt;&lt;/p&gt;
+<p><html></p>
 
-&lt;iframe width=&quot;600&quot; height=&quot;350&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;http://maps.google.fr/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=plaza+chartons,+15+Rue+Rode,+33300+Bordeaux&amp;amp;aq=&amp;amp;sll=44.854043,-0.570302&amp;amp;sspn=0.009203,0.01929&amp;amp;ie=UTF8&amp;amp;hq=plaza+chartons,&amp;amp;hnear=15+Rue+Rod%C3%A9,+33000+Bordeaux,+Gironde,+Aquitaine&amp;amp;ll=44.852568,-0.572212&amp;amp;spn=0.006295,0.006295&amp;amp;t=m&amp;amp;output=embed&quot;&gt;&lt;/iframe&gt;
-
-
-&lt;br /&gt;&lt;small&gt;&lt;a href=&quot;http://maps.google.fr/maps?f=q&amp;amp;source=embed&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=plaza+chartons,+15+Rue+Rode,+33300+Bordeaux&amp;amp;aq=&amp;amp;sll=44.854043,-0.570302&amp;amp;sspn=0.009203,0.01929&amp;amp;ie=UTF8&amp;amp;hq=plaza+chartons,&amp;amp;hnear=15+Rue+Rod%C3%A9,+33000+Bordeaux,+Gironde,+Aquitaine&amp;amp;ll=44.852568,-0.572212&amp;amp;spn=0.006295,0.006295&amp;amp;t=m&quot; style=&quot;color:#0000FF;text-align:left&quot;&gt;View Larger Map&lt;/a&gt;&lt;/small&gt;
+<iframe width="600" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.fr/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=plaza+chartons,+15+Rue+Rode,+33300+Bordeaux&amp;aq=&amp;sll=44.854043,-0.570302&amp;sspn=0.009203,0.01929&amp;ie=UTF8&amp;hq=plaza+chartons,&amp;hnear=15+Rue+Rod%C3%A9,+33000+Bordeaux,+Gironde,+Aquitaine&amp;ll=44.852568,-0.572212&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></iframe>
 
 
-&lt;p&gt;&lt;/html&gt;&lt;/p&gt;
+<br /><small><a href="http://maps.google.fr/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=plaza+chartons,+15+Rue+Rode,+33300+Bordeaux&amp;aq=&amp;sll=44.854043,-0.570302&amp;sspn=0.009203,0.01929&amp;ie=UTF8&amp;hq=plaza+chartons,&amp;hnear=15+Rue+Rod%C3%A9,+33000+Bordeaux,+Gironde,+Aquitaine&amp;ll=44.852568,-0.572212&amp;spn=0.006295,0.006295&amp;t=m" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
-&lt;p&gt;Pour ceux qui viennent en voiture, prévoyez un parking sur les quais ou
-place Ravezies et un petit coup de Tram.&lt;/p&gt;
-</content>
+
+<p></html></p>
+
+<p>Pour ceux qui viennent en voiture, prévoyez un parking sur les quais ou
+place Ravezies et un petit coup de Tram.</p>
+]]></content>
   </entry>
   
   <entry>
-    <title>Apéro De Fevrier Dans Un Nouveau Lieu</title>
+    <title type="html"><![CDATA[Apéro De Fevrier Dans Un Nouveau Lieu]]></title>
     <link href="http://www.rubybdx.org/blog/2012/02/07/apero-de-fevrier-dans-un-nouveau-lieu/"/>
     <updated>2012-02-07T16:36:00+01:00</updated>
     <id>http://www.rubybdx.org/blog/2012/02/07/apero-de-fevrier-dans-un-nouveau-lieu</id>
-    <content type="html">&lt;p&gt;Notre lieu de rencontre historique ayant fermé définitivement, nous nous
-retrouverons ce soir au &lt;a href=&quot;http://www.qype.fr/place/228853-Cambridge-Arms-Bordeaux&quot;&gt;Cambridge Arm&lt;/a&gt; comme d&amp;#8217;habitude à 19h.&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<p>Notre lieu de rencontre historique ayant fermé définitivement, nous nous
+retrouverons ce soir au <a href="http://www.qype.fr/place/228853-Cambridge-Arms-Bordeaux">Cambridge Arm</a> comme d&#8217;habitude à 19h.</p>
+]]></content>
   </entry>
   
   <entry>
-    <title>Apéro De Janvier Le 10</title>
+    <title type="html"><![CDATA[Apéro De Janvier Le 10]]></title>
     <link href="http://www.rubybdx.org/blog/2011/12/30/apero-de-janvier-le-10/"/>
     <updated>2011-12-30T22:53:00+01:00</updated>
     <id>http://www.rubybdx.org/blog/2011/12/30/apero-de-janvier-le-10</id>
-    <content type="html">&lt;p&gt;
-  Le prochain Apéro Ruby bordelais aura lieux le 10 Janvier, comme d&amp;#8217;habitude au
-  &lt;a href=&#8217;http://www.bordeauxcafe.com/fr/lieux/22490-ship-and-anchor&#8217;&gt;Ship and anchor&lt;/a&gt;
+    <content type="html"><![CDATA[<p>
+  Le prochain Apéro Ruby bordelais aura lieux le 10 Janvier, comme d&#8217;habitude au
+  <a href='http://www.bordeauxcafe.com/fr/lieux/22490-ship-and-anchor'>Ship and anchor</a>
   à partir de 19h.
-&lt;/p&gt;
-&lt;p&gt;
-  Utilisez ce doodle pour nous dire que vous serez-là &amp;#8230; merci ! :-)
-&lt;/p&gt;
-&lt;iframe height=&#8217;800px&#8217; src=&#8217;http://www.doodle.com/npidd7e55a86ku3p&#8217; width=&#8217;842px&#8217;&gt;&lt;/iframe&gt;
-</content>
+</p>
+<p>
+  Utilisez ce doodle pour nous dire que vous serez-là &#8230; merci ! :-)
+</p>
+<iframe height='800px' src='http://www.doodle.com/npidd7e55a86ku3p' width='842px'></iframe>
+]]></content>
   </entry>
   
   <entry>
-    <title>Date Pour L&#8217;apéro De Janvier</title>
+    <title type="html"><![CDATA[Date Pour L'apéro De Janvier]]></title>
     <link href="http://www.rubybdx.org/blog/2011/12/22/date-pour-lapero-de-janvier/"/>
     <updated>2011-12-22T11:57:00+01:00</updated>
     <id>http://www.rubybdx.org/blog/2011/12/22/date-pour-lapero-de-janvier</id>
-    <content type="html">&lt;p&gt;
+    <content type="html"><![CDATA[<p>
   Le premier mardi de Janvier tombe juste après le lundi de reprise.
-  &lt;br /&gt;
-  Je me demandais si on fait l&amp;#8217;apéro le 3 ou si un décale d&amp;#8217;une semaine.
-&lt;/p&gt;
-&lt;a href=&#8217;http://doodle.com/uif6c9cx2x7drt32&#8217;&gt;
+  <br />
+  Je me demandais si on fait l&#8217;apéro le 3 ou si un décale d&#8217;une semaine.
+</p>
+<a href='http://doodle.com/uif6c9cx2x7drt32'>
   Faites votre choix sur ce Doodle
-&lt;/a&gt;
-</content>
+</a>
+]]></content>
   </entry>
   
   <entry>
-    <title>Apéro Bordelais Numéro 2</title>
+    <title type="html"><![CDATA[Apéro Bordelais Numéro 2]]></title>
     <link href="http://www.rubybdx.org/blog/2011/12/05/apero-bordelais-numero-2/"/>
     <updated>2011-12-05T18:42:00+01:00</updated>
     <id>http://www.rubybdx.org/blog/2011/12/05/apero-bordelais-numero-2</id>
-    <content type="html">&lt;p&gt;Nous espérons vous voir nombreux pour ce deuxième apéro.&lt;/p&gt;
+    <content type="html"><![CDATA[<p>Nous espérons vous voir nombreux pour ce deuxième apéro.</p>
 
-&lt;p&gt;Nous avons pour l&amp;#8217;instant 2 présentations programmées :&lt;/p&gt;
+<p>Nous avons pour l&#8217;instant 2 présentations programmées :</p>
 
-&lt;ul&gt;
-&lt;li&gt;Les objets embedded avec Mongo&lt;/li&gt;
-&lt;li&gt;Quelques nouveauté apportées par ruby 1.9 ( partie #1)&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Les objets embedded avec Mongo</li>
+<li>Quelques nouveauté apportées par ruby 1.9 ( partie #1)</li>
+</ul>
 
 
-&lt;p&gt;Rendez-vous le &lt;strong&gt;mardi 6 décembre&lt;/strong&gt; au &lt;a href=&quot;http://www.bordeauxcafe.com/fr/lieux/22490-ship-and-anchor&quot;&gt;Ship and anchor&lt;/a&gt; à partir de 19h.&lt;/p&gt;
-</content>
+<p>Rendez-vous le <strong>mardi 6 décembre</strong> au <a href="http://www.bordeauxcafe.com/fr/lieux/22490-ship-and-anchor">Ship and anchor</a> à partir de 19h.</p>
+]]></content>
   </entry>
   
   <entry>
-    <title>Création D&#8217;une Mailing Liste</title>
+    <title type="html"><![CDATA[Création D'une Mailing Liste]]></title>
     <link href="http://www.rubybdx.org/blog/2011/11/10/creation-dune-mailing-liste/"/>
     <updated>2011-11-10T21:09:00+01:00</updated>
     <id>http://www.rubybdx.org/blog/2011/11/10/creation-dune-mailing-liste</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.rubybdx.org/images/post_icons/mailing_list.jpeg&quot; alt=&quot;Mailing_list_&quot; /&gt;
-Comme convenue lors du premier apéro, nous ouvrons une mailing sous forme d&amp;#8217;un google group afin de prolonger les discussions.&lt;/p&gt;
+    <content type="html"><![CDATA[<p><img src="http://www.rubybdx.org/images/post_icons/mailing_list.jpeg" alt="Mailing_list_" />
+Comme convenue lors du premier apéro, nous ouvrons une mailing sous forme d&#8217;un google group afin de prolonger les discussions.</p>
 
-&lt;p&gt;La lecture des archives de cette liste est ouverte à tous.&lt;/p&gt;
+<p>La lecture des archives de cette liste est ouverte à tous.</p>
 
-&lt;p&gt;Pour poster, rien de plus simple, inscrivez-vous puis envoyez un email à &lt;a href=&quot;mailto:rubybdx@googlegroups.com&quot;&gt;rubybdx@googlegroups.com&lt;/a&gt;&lt;/p&gt;
+<p>Pour poster, rien de plus simple, inscrivez-vous puis envoyez un email à <a href="mailto:rubybdx@googlegroups.com">rubybdx@googlegroups.com</a></p>
 
-&lt;p&gt;Vous pouvez vous inscrire en utilisant le formulaire d&amp;#8217;en-tête de notre site ou en accédant à linterface web du groupe &lt;a href=&quot;http://groups.google.com/group/rubybdx&quot;&gt;rubybdx&lt;/a&gt;.&lt;/p&gt;
-</content>
+<p>Vous pouvez vous inscrire en utilisant le formulaire d&#8217;en-tête de notre site ou en accédant à linterface web du groupe <a href="http://groups.google.com/group/rubybdx">rubybdx</a>.</p>
+]]></content>
   </entry>
   
   <entry>
-    <title>Un Premier Apéro Réussi</title>
+    <title type="html"><![CDATA[Un Premier Apéro Réussi]]></title>
     <link href="http://www.rubybdx.org/blog/2011/11/09/un-premier-apero-reussit/"/>
     <updated>2011-11-09T15:23:00+01:00</updated>
     <id>http://www.rubybdx.org/blog/2011/11/09/un-premier-apero-reussit</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.rubybdx.org/images/post_icons/rubybdx_tram.jpg&quot; alt=&quot;rubybdx_tram_&quot; /&gt; Nous sommes très heureux d&amp;#8217;avoir réalisé notre premier apéro bordelais.&lt;/p&gt;
+    <content type="html"><![CDATA[<p><img src="http://www.rubybdx.org/images/post_icons/rubybdx_tram.jpg" alt="rubybdx_tram_" /> Nous sommes très heureux d&#8217;avoir réalisé notre premier apéro bordelais.</p>
 
-&lt;p&gt;11 programmeurs ont répondu à l&amp;#8217;appel dont la plupart programment déjà en Ruby à titre professionnel ou simplement pour le plaisir.
+<p>11 programmeurs ont répondu à l&#8217;appel dont la plupart programment déjà en Ruby à titre professionnel ou simplement pour le plaisir.
 Nous avons passé une bonne partie du temps à faire 4 présentations, ce qui fut très intéressant, mais assez long.
-Nous ferons plus court la prochaine fois afin de conserver un temps pour les discussions plus dispersées.&lt;/p&gt;
+Nous ferons plus court la prochaine fois afin de conserver un temps pour les discussions plus dispersées.</p>
 
-&lt;p&gt;Vous pouvez consulter &lt;a href=&quot;http://www.rubybdx.org/presentations&quot;&gt;les présentations&lt;/a&gt; ainsi que &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.244254322298883.60132.226532387404410&amp;amp;type=3&quot;&gt;quelques photos&lt;/a&gt;
-(Si vous avez des photos à partager, n&amp;#8217;hésitez pas à nous les envoyer sur rubybdx at googlegroups.com)&lt;/p&gt;
+<p>Vous pouvez consulter <a href="http://www.rubybdx.org/presentations">les présentations</a> ainsi que <a href="https://www.facebook.com/media/set/?set=a.244254322298883.60132.226532387404410&amp;type=3">quelques photos</a>
+(Si vous avez des photos à partager, n&#8217;hésitez pas à nous les envoyer sur rubybdx at googlegroups.com)</p>
 
-&lt;p&gt;Merci à tous et rendez-vous le mois prochain (6 décembre) pour un nouvel apéro avec nous l&amp;#8217;espérons plus de non développeurs et plus de filles.&lt;/p&gt;
-</content>
+<p>Merci à tous et rendez-vous le mois prochain (6 décembre) pour un nouvel apéro avec nous l&#8217;espérons plus de non développeurs et plus de filles.</p>
+]]></content>
   </entry>
   
   <entry>
-    <title>Premier Apéro Ruby à Bordeaux</title>
+    <title type="html"><![CDATA[Premier Apéro Ruby à Bordeaux]]></title>
     <link href="http://www.rubybdx.org/blog/2011/11/02/premier-apero-ruby-a-bordeaux/"/>
     <updated>2011-11-02T13:49:00+01:00</updated>
     <id>http://www.rubybdx.org/blog/2011/11/02/premier-apero-ruby-a-bordeaux</id>
-    <content type="html">&lt;p&gt;Nous avons le plaisir d&amp;#8217;annoncer la tenue du premier apéro Ruby au &lt;a href=&quot;http://www.bordeauxcafe.com/fr/lieux/22490-ship-and-anchor&quot;&gt;Ship and anchor&lt;/a&gt;, le mardi 8 Novembre à partir de 19h.&lt;/p&gt;
+    <content type="html"><![CDATA[<p>Nous avons le plaisir d&#8217;annoncer la tenue du premier apéro Ruby au <a href="http://www.bordeauxcafe.com/fr/lieux/22490-ship-and-anchor">Ship and anchor</a>, le mardi 8 Novembre à partir de 19h.</p>
 
-&lt;p&gt;Comme il s&amp;#8217;agit du premier du genre, nous souhaitons qu&amp;#8217;il soit le moins formel possible avec une audience la plus large possible, alors que vous soyez Rubyiste vétéran, débutant ou simplement intéressé par ce langage et un bon apéro, venez donc prendre un verre avec nous.&lt;/p&gt;
+<p>Comme il s&#8217;agit du premier du genre, nous souhaitons qu&#8217;il soit le moins formel possible avec une audience la plus large possible, alors que vous soyez Rubyiste vétéran, débutant ou simplement intéressé par ce langage et un bon apéro, venez donc prendre un verre avec nous.</p>
 
-&lt;p&gt;Vous pouvez nous indiquer votre présence &lt;a href=&quot;https://www.facebook.com/event.php?eid=210643199009006&quot;&gt;sur la page facebook&lt;/a&gt;&lt;/p&gt;
-</content>
+<p>Vous pouvez nous indiquer votre présence <a href="https://www.facebook.com/event.php?eid=210643199009006">sur la page facebook</a></p>
+]]></content>
   </entry>
   
 </feed>
