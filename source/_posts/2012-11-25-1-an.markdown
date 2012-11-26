@@ -13,7 +13,7 @@ Aujourd'hui, Damian et Josselin ont l'air motivé pour reprendre l'organisation 
   
  
 ## Comment ça se passe un apéro ?
-C'est très simple ! Nous avons l'habitude de nous réunir dans un pub, le premier mardi du mois vers 19h. En générale, nous essayons d'avoir une ou deux présentations d'environ 20 min chacune. Ces présentations sont simples, informelles, elles sont là où pour nous faire découvrir une technologie/usage ou alors animer une discussion.  
+C'est très simple ! Nous avons l'habitude de nous réunir dans un pub, le premier mardi du mois vers 19h. En générale, nous essayons d'avoir une ou deux présentations d'environ 20 min chacune. Ces présentations sont simples, informelles, elles sont là ou pour nous faire découvrir une technologie/usage ou alors animer une discussion.  
 Il est très rare que nous codions durant les apéros. Pour la simple raison que nous avons peu de temps, nous sommes dans des pubs où l'ambiance est chaleureuse et nous préférons communiquer durant les apéros Ruby.
 
 ## Je ne fais pas de Ruby / Je suis novice . Je peux venir ?
@@ -21,4 +21,4 @@ Il est très rare que nous codions durant les apéros. Pour la simple raison que
 Clairement, OUI ! Nous avons parfois parmi nous des Pythonistes, des développeurs Java, C#, .NET, etc … Et aussi des novices qui viennent découvrir ! Nous aimons avoir des gens de milieux variés et c'est la richesse de ces apéros. On parle de Web de façon large, parfois de startups, de nos anciens jobs, de nos projets d'avenir, de nos "reconversion", etc.
 
 ## Rendez-vous le 4 décembre à 19h !
-Le lieu sera confirmé très bientôt. Suivez le blog, le twitter ou la mailing list pour être informé du Pub dans lequel nous discuterons (Golden Apple, Oxford Arms, ou Plaza Chartrons) 
+Le lieu sera confirmé très bientôt. Suivez le [blog](http://rubybdx.org/), le [twitter](https://twitter.com/rubybdx) ou la [mailing list](https://groups.google.com/forum/?fromgroups#!forum/rubybdx) pour être informé du Pub dans lequel nous discuterons (Golden Apple, Oxford Arms, ou Plaza Chartrons) 
