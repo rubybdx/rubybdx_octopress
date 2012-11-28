@@ -7,18 +7,18 @@ categories:
 ---
 
 Nous venons de fêter nos un an d'activité ! Merci à tous d'avoir animé, trollé, participé, et organisé ce groupe durant l'année.  
-Nos deux amis Bastien et Yann sont soit occupé, soit à l'étranger pour le moment. Mais ils ont fait tout leur possible pour que l'évènement existe et merci beaucoup à nos deux camarades sans qui nous n'aurions pas eu de lieux ou de présentation à base de légumes bizarre concernant Ruby :).  
+Nos deux amis Bastien et Yann sont soit occupés, soit à l'étranger pour le moment. Mais ils ont fait tout leur possible pour que l'évènement existe: un grand merci à nos deux camarades sans qui nous n'aurions pas eu de lieux ou de présentation à base de légumes bizarres concernant Ruby :).  
   
-Aujourd'hui, Damian et Josselin ont l'air motivé pour reprendre l'organisation de l'apéro Ruby Bordelais. Ils essaieront d'être assidu dans la gestion du lieu et des dates. Si vous avez une question, n'hésitez pas à les tweeter ou à poser des questions sur la mailing list (inscription juste en haut).  
+Aujourd'hui, Damian et Josselin ont l'air motivés pour reprendre l'organisation de l'apéro Ruby Bordelais. Ils essaieront d'être assidus dans la gestion du lieu et des dates. Si vous avez une question, n'hésitez pas à les tweeter ou à poser des questions sur la mailing-list (inscription juste en haut).  
   
  
 ## Comment ça se passe un apéro ?
-C'est très simple ! Nous avons l'habitude de nous réunir dans un pub, le premier mardi du mois vers 19h. En générale, nous essayons d'avoir une ou deux présentations d'environ 20 min chacune. Ces présentations sont simples, informelles, elles sont là ou pour nous faire découvrir une technologie/usage ou alors animer une discussion.  
+C'est très simple ! Nous avons l'habitude de nous réunir dans un pub, le premier mardi du mois vers 19h. En général, nous essayons d'avoir une ou deux présentations d'environ 20 minutes chacune. Ces présentations sont simples, informelles, elles sont là ou pour nous faire découvrir une technologie/usage ou alors animer une discussion.  
 Il est très rare que nous codions durant les apéros. Pour la simple raison que nous avons peu de temps, nous sommes dans des pubs où l'ambiance est chaleureuse et nous préférons communiquer durant les apéros Ruby.
 
 ## Je ne fais pas de Ruby / Je suis novice . Je peux venir ?
 
-Clairement, OUI ! Nous avons parfois parmi nous des Pythonistes, des développeurs Java, C#, .NET, etc … Et aussi des novices qui viennent découvrir ! Nous aimons avoir des gens de milieux variés et c'est la richesse de ces apéros. On parle de Web de façon large, parfois de startups, de nos anciens jobs, de nos projets d'avenir, de nos "reconversion", etc.
+Clairement, OUI ! Nous avons parfois parmi nous des Pythonistes, des développeurs Java, C#, .NET, etc. Et aussi des novices qui viennent découvrir ! Nous aimons avoir des gens de milieux variés et c'est la richesse de ces apéros. On parle de Web de façon large, parfois de startups, de nos anciens jobs, de nos projets d'avenir, de nos "reconversions", etc.
 
 ## Rendez-vous le 4 décembre à 19h !
-Le lieu sera confirmé très bientôt. Suivez le [blog](http://rubybdx.org/), le [twitter](https://twitter.com/rubybdx) ou la [mailing list](https://groups.google.com/forum/?fromgroups#!forum/rubybdx) pour être informé du Pub dans lequel nous discuterons (Golden Apple, Oxford Arms, ou Plaza Chartrons) 
+Le lieu sera confirmé très bientôt. Suivez le [blog](http://rubybdx.org/), le [Twitter](https://twitter.com/rubybdx) ou la [mailing-list](https://groups.google.com/forum/?fromgroups#!forum/rubybdx) pour être informé du Pub dans lequel nous discuterons (Golden Apple, Oxford Arms, ou Plaza Chartrons) 

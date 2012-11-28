@@ -4,7 +4,7 @@
   <title><![CDATA[Ruby à Bordeaux]]></title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2012-11-26T12:23:56+01:00</updated>
+  <updated>2012-11-28T10:06:44+01:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
     <name><![CDATA[Yann ARMAND, Josselin AUGUSTE]]></name>
@@ -14,27 +14,40 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Changement de lieu]]></title>
+    <link href="http://www.rubybdx.org/blog/2012/11/28/changement-de-date/"/>
+    <updated>2012-11-28T09:55:00+01:00</updated>
+    <id>http://www.rubybdx.org/blog/2012/11/28/changement-de-date</id>
+    <content type="html"><![CDATA[<p>Exceptionnellement, l&#8217;apéro qui devait avoir lieu le 4 décembre est reporté au 11 décembre. Le lundi 3 et mardi 4 décembre ont lieu la <a href="http://leanstartup.co/">Lean Startup Conference</a>. Une retransmission est prévu au <a href="http://www.coolworking.fr/">Coolworking</a>, toute les infos (adresse, lieu) : <a href="https://www.google.com/calendar/render?eid=MzJuM2UxaHB2c2RhdGRlajhldTQ3N3MzYjAgZW1yZGt2dnU2aXVxa3A2ZzJldGpwNTI5NWdAZw&amp;ctz=Europe/Paris&amp;pli=1&amp;gsessionid=I8CHeeSQgv-rnGKpWa9UGg&amp;sf=true&amp;output=xml">par ici !</a></p>
+
+<p>Suivez <a href="http://bordeaux.digisquare.net/">Digisquare</a> (<a href="https://twitter.com/digisquare_bx">@digisquare_bx</a>) pour connaître l&#8217;actualité des évènements numériques sur Bordeaux.</p>
+
+<p>Bonne journée !</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[1 an]]></title>
     <link href="http://www.rubybdx.org/blog/2012/11/25/1-an/"/>
     <updated>2012-11-25T21:51:00+01:00</updated>
     <id>http://www.rubybdx.org/blog/2012/11/25/1-an</id>
     <content type="html"><![CDATA[<p>Nous venons de fêter nos un an d&#8217;activité ! Merci à tous d&#8217;avoir animé, trollé, participé, et organisé ce groupe durant l&#8217;année.<br/>
-Nos deux amis Bastien et Yann sont soit occupé, soit à l&#8217;étranger pour le moment. Mais ils ont fait tout leur possible pour que l&#8217;évènement existe et merci beaucoup à nos deux camarades sans qui nous n&#8217;aurions pas eu de lieux ou de présentation à base de légumes bizarre concernant Ruby :).</p>
+Nos deux amis Bastien et Yann sont soit occupés, soit à l&#8217;étranger pour le moment. Mais ils ont fait tout leur possible pour que l&#8217;évènement existe: un grand merci à nos deux camarades sans qui nous n&#8217;aurions pas eu de lieux ou de présentation à base de légumes bizarres concernant Ruby :).</p>
 
-<p>Aujourd&#8217;hui, Damian et Josselin ont l&#8217;air motivé pour reprendre l&#8217;organisation de l&#8217;apéro Ruby Bordelais. Ils essaieront d&#8217;être assidu dans la gestion du lieu et des dates. Si vous avez une question, n&#8217;hésitez pas à les tweeter ou à poser des questions sur la mailing list (inscription juste en haut).</p>
+<p>Aujourd&#8217;hui, Damian et Josselin ont l&#8217;air motivés pour reprendre l&#8217;organisation de l&#8217;apéro Ruby Bordelais. Ils essaieront d&#8217;être assidus dans la gestion du lieu et des dates. Si vous avez une question, n&#8217;hésitez pas à les tweeter ou à poser des questions sur la mailing-list (inscription juste en haut).</p>
 
 <h2>Comment ça se passe un apéro ?</h2>
 
-<p>C&#8217;est très simple ! Nous avons l&#8217;habitude de nous réunir dans un pub, le premier mardi du mois vers 19h. En générale, nous essayons d&#8217;avoir une ou deux présentations d&#8217;environ 20 min chacune. Ces présentations sont simples, informelles, elles sont là ou pour nous faire découvrir une technologie/usage ou alors animer une discussion.<br/>
+<p>C&#8217;est très simple ! Nous avons l&#8217;habitude de nous réunir dans un pub, le premier mardi du mois vers 19h. En général, nous essayons d&#8217;avoir une ou deux présentations d&#8217;environ 20 minutes chacune. Ces présentations sont simples, informelles, elles sont là ou pour nous faire découvrir une technologie/usage ou alors animer une discussion.<br/>
 Il est très rare que nous codions durant les apéros. Pour la simple raison que nous avons peu de temps, nous sommes dans des pubs où l&#8217;ambiance est chaleureuse et nous préférons communiquer durant les apéros Ruby.</p>
 
 <h2>Je ne fais pas de Ruby / Je suis novice . Je peux venir ?</h2>
 
-<p>Clairement, OUI ! Nous avons parfois parmi nous des Pythonistes, des développeurs Java, C#, .NET, etc … Et aussi des novices qui viennent découvrir ! Nous aimons avoir des gens de milieux variés et c&#8217;est la richesse de ces apéros. On parle de Web de façon large, parfois de startups, de nos anciens jobs, de nos projets d&#8217;avenir, de nos &#8220;reconversion&#8221;, etc.</p>
+<p>Clairement, OUI ! Nous avons parfois parmi nous des Pythonistes, des développeurs Java, C#, .NET, etc. Et aussi des novices qui viennent découvrir ! Nous aimons avoir des gens de milieux variés et c&#8217;est la richesse de ces apéros. On parle de Web de façon large, parfois de startups, de nos anciens jobs, de nos projets d&#8217;avenir, de nos &#8220;reconversions&#8221;, etc.</p>
 
 <h2>Rendez-vous le 4 décembre à 19h !</h2>
 
-<p>Le lieu sera confirmé très bientôt. Suivez le <a href="http://rubybdx.org/">blog</a>, le <a href="https://twitter.com/rubybdx">twitter</a> ou la <a href="https://groups.google.com/forum/?fromgroups#!forum/rubybdx">mailing list</a> pour être informé du Pub dans lequel nous discuterons (Golden Apple, Oxford Arms, ou Plaza Chartrons)</p>
+<p>Le lieu sera confirmé très bientôt. Suivez le <a href="http://rubybdx.org/">blog</a>, le <a href="https://twitter.com/rubybdx">Twitter</a> ou la <a href="https://groups.google.com/forum/?fromgroups#!forum/rubybdx">mailing-list</a> pour être informé du Pub dans lequel nous discuterons (Golden Apple, Oxford Arms, ou Plaza Chartrons)</p>
 ]]></content>
   </entry>
   
