@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Changement de lieu"
+title: "Apéro du 4 décembre reporté au 11"
 date: 2012-11-28 09:55
 comments: true
 categories: 
