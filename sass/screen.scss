@@ -9,35 +9,3 @@
 @import "partials";
 @import "custom/styles";
 
-
-$font: Arial, Helvetica, sans-serif;
-
-body {
-  font-family: $font;
-  font-size: 14px;
-}
-
-.home_view {
-  background: #fff;
-
-  body {
-    font-family: $font;
-    font-size: 12px;
-  }
-
-  h1, h1, h2, h3, h4, h5, h6 {
-    font-family: $font;
-  }
-
-  body > div {
-    background: none;
-    border: none;
-  }
-}
-
-
-.wrap {
-  width: 800px;
-  margin: 0 auto;
-  padding: 10px 0;
-}
