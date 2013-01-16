@@ -51,7 +51,9 @@ display: inline-block;
 
 
 .wrap {
-  width: 400px;
+  min-width: 300px;
+  max-width: 600px;
+  // width: 400px;
   margin: 0 auto;
   padding: 10px 0;
   text-align: center;
