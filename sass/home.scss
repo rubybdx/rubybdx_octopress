@@ -16,6 +16,13 @@ body {
   // &.github { background: #4099FF; }
 }
 
+@media only screen and (max-width: 767px) {
+
+.button {
+display: inline-block;
+}
+}
+
 .home_view {
   // background: #fff;
   background: #f4f4f4;
