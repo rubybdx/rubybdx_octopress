@@ -8,9 +8,9 @@ categories:
 
 L'apéro du mois de mars sera tout à fait particulier. Après une discussion avec notre ami Yann Armand (créateur de l'apéro RubyBDX et actuellement en fonction de lead dev' Ruby chez [Yammer](https://www.yammer.com/)), nous avons convenu d'une présentation en remote !  
   
-Yann nous présentera "La déprécation d'attribut pour un ActiveRecord". Nous utiliserons Hangout pour le support. Ok, comment on fait un Hangout dans un bar ? Pas évident. C'est pourquoi nous avons convenu d'organiser le prochain RubyBDX (Mardi 5 Mars) au [Coolworking !](http://www.coolworking.fr/). Fabrice Jeannet (ancien champion Olympique d'escrime) a ouvert cette espace de coworking il y a moins d'un an. C'est l'occasion de découvrir le lieu, et avoir des conditions idéal pour une conférence en remote de Londres avec Yann.  
+Yann nous présentera "La déprécation d'attribut pour un ActiveRecord". Nous utiliserons Hangout pour le support. Ok, comment on fait un Hangout dans un bar ? Pas évident. C'est pourquoi nous avons convenu d'organiser le prochain RubyBDX (Mardi 5 Mars) au [Coolworking !](http://www.coolworking.fr/). Fabrice Jeannet (ancien champion Olympique d'escrime) a ouvert cet espace de coworking il y a moins d'un an. C'est l'occasion de découvrir le lieu, et avoir des conditions idéales pour une conférence en remote de Londres avec Yann.  
   
-En plus de cette présentation, libre à vous de présenter un sujet de votre choix. Après quelques discussion sur la mailinglist, une bonne idée est sortie du lot : Utiliser un format de présentation dynamyque. Pour votre présentation du mardi 5 Mars, **20 slides, 20 secondes par slide (en défilement automatique)**.
+En plus de cette présentation, libre à vous de présenter un sujet de votre choix. Après quelques discussion sur la mailinglist, une bonne idée est sortie du lot : Utiliser un format de présentation dynamique. Pour votre présentation du mardi 5 Mars, **20 slides, 20 secondes par slide (en défilement automatique)**.
 
 Cet apéro est un peu "pilote" pour tester un nouveau format dans un nouveau lieu. Nous nous donnerons rendez-vous à **19h le mardi 5 Mars au Coolworking.** Nous pourrons déguster un verre de vin sur place et ensuite manger à côté pour ceux qui le souhaitent.
 
