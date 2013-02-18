@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Mars"
+date: 2013-02-18 09:42
+comments: true
+categories: 
+---
+
+L'apéro du mois de mars sera tout à fait particulier. Après une discussion avec notre ami Yann Armand (créateur de l'apéro RubyBDX et actuellement en fonction de lead dev' Ruby chez [Yammer](https://www.yammer.com/)), nous avons convenu d'une présentation en remote !  
+  
+Yann nous présentera "La déprécation d'attribut pour un ActiveRecord". Nous utiliserons Hangout pour le support. Ok, comment on fait un Hangout dans un bar ? Pas évident. C'est pourquoi nous avons convenu d'organiser le prochain RubyBDX (Mardi 5 Mars) au [Coolworking !](http://www.coolworking.fr/). Fabrice Jeannet (ancien champion Olympique d'escrime) a ouvert cette espace de coworking il y a moins d'un an. C'est l'occasion de découvrir le lieu, et avoir des conditions idéal pour une conférence en remote de Londres avec Yann.  
+  
+En plus de cette présentation, libre à vous de présenter un sujet de votre choix. Après quelques discussion sur la mailinglist, une bonne idée est sortie du lot : Utiliser un format de présentation dynamyque. Pour votre présentation du mardi 5 Mars, **20 slides, 20 secondes par slide (en défilement automatique)**.
+
+Cet apéro est un peu "pilote" pour tester un nouveau format dans un nouveau lieu. Nous nous donnerons rendez-vous à **19h le mardi 5 Mars au Coolworking.** Nous pourrons déguster un verre de vin sur place et ensuite manger à côté pour ceux qui le souhaitent.
+
+**[Inscrivez-vous sur notre joli Meetup !](http://www.meetup.com/rubybdx/events/105130362/)**
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=19+Rue+Esprit+des+Lois,+Bordeaux&amp;aq=3&amp;oq=19+rue+es&amp;sll=44.0718,-0.175781&amp;sspn=8.871521,19.248047&amp;ie=UTF8&amp;hq=&amp;hnear=19+Rue+Esprit+des+Lois,+33000+Bordeaux,+Gironde,+Aquitaine&amp;t=m&amp;view=map&amp;ll=44.843116,-0.572875&amp;spn=0.018318,0.038366&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.fr/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=19+Rue+Esprit+des+Lois,+Bordeaux&amp;aq=3&amp;oq=19+rue+es&amp;sll=44.0718,-0.175781&amp;sspn=8.871521,19.248047&amp;ie=UTF8&amp;hq=&amp;hnear=19+Rue+Esprit+des+Lois,+33000+Bordeaux,+Gironde,+Aquitaine&amp;t=m&amp;view=map&amp;ll=44.843116,-0.572875&amp;spn=0.018318,0.038366&amp;z=14" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>
+
+<div style="background:#394755; text-align:center; padding: 10px;">
+<a href="http://www.coolworking.fr/">
+<img style="border: 0;" src="http://www.coolworking.fr/assets/img/logo-horizontal-fr-dark-354x63.png"/></a>
+</div>

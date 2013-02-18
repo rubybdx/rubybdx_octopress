@@ -4,14 +4,45 @@
   <title><![CDATA[Ruby à Bordeaux]]></title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2013-01-16T23:26:24+01:00</updated>
+  <updated>2013-02-18T10:17:51+01:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
-    <name><![CDATA[Yann ARMAND, Josselin AUGUSTE]]></name>
+    <name><![CDATA[Damian LE NOUAILLE, Josselin AUGUSTE]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mars]]></title>
+    <link href="http://www.rubybdx.org/blog/2013/02/18/mars/"/>
+    <updated>2013-02-18T09:42:00+01:00</updated>
+    <id>http://www.rubybdx.org/blog/2013/02/18/mars</id>
+    <content type="html"><![CDATA[<p>L&#8217;apéro du mois de mars sera tout à fait particulier. Après une discussion avec notre ami Yann Armand (créateur de l&#8217;apéro RubyBDX et actuellement en fonction de lead dev&#8217; Ruby chez <a href="https://www.yammer.com/">Yammer</a>), nous avons convenu d&#8217;une présentation en remote !</p>
+
+<p>Yann nous présentera &#8220;La déprécation d&#8217;attribut pour un ActiveRecord&#8221;. Nous utiliserons Hangout pour le support. Ok, comment on fait un Hangout dans un bar ? Pas évident. C&#8217;est pourquoi nous avons convenu d&#8217;organiser le prochain RubyBDX (Mardi 5 Mars) au <a href="http://www.coolworking.fr/">Coolworking !</a>. Fabrice Jeannet (ancien champion Olympique d&#8217;escrime) a ouvert cette espace de coworking il y a moins d&#8217;un an. C&#8217;est l&#8217;occasion de découvrir le lieu, et avoir des conditions idéal pour une conférence en remote de Londres avec Yann.</p>
+
+<p>En plus de cette présentation, libre à vous de présenter un sujet de votre choix. Après quelques discussion sur la mailinglist, une bonne idée est sortie du lot : Utiliser un format de présentation dynamyque. Pour votre présentation du mardi 5 Mars, <strong>20 slides, 20 secondes par slide (en défilement automatique)</strong>.</p>
+
+<p>Cet apéro est un peu &#8220;pilote&#8221; pour tester un nouveau format dans un nouveau lieu. Nous nous donnerons rendez-vous à <strong>19h le mardi 5 Mars au Coolworking.</strong> Nous pourrons déguster un verre de vin sur place et ensuite manger à côté pour ceux qui le souhaitent.</p>
+
+<p><strong><a href="http://www.meetup.com/rubybdx/events/105130362/">Inscrivez-vous sur notre joli Meetup !</a></strong></p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=19+Rue+Esprit+des+Lois,+Bordeaux&amp;aq=3&amp;oq=19+rue+es&amp;sll=44.0718,-0.175781&amp;sspn=8.871521,19.248047&amp;ie=UTF8&amp;hq=&amp;hnear=19+Rue+Esprit+des+Lois,+33000+Bordeaux,+Gironde,+Aquitaine&amp;t=m&amp;view=map&amp;ll=44.843116,-0.572875&amp;spn=0.018318,0.038366&amp;z=14&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.fr/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=19+Rue+Esprit+des+Lois,+Bordeaux&amp;aq=3&amp;oq=19+rue+es&amp;sll=44.0718,-0.175781&amp;sspn=8.871521,19.248047&amp;ie=UTF8&amp;hq=&amp;hnear=19+Rue+Esprit+des+Lois,+33000+Bordeaux,+Gironde,+Aquitaine&amp;t=m&amp;view=map&amp;ll=44.843116,-0.572875&amp;spn=0.018318,0.038366&amp;z=14" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>
+
+
+
+
+<div style="background:#394755; text-align:center; padding: 10px;">
+<a href="http://www.coolworking.fr/">
+<img style="border: 0;" src="http://www.coolworking.fr/assets/img/logo-horizontal-fr-dark-354x63.png"/></a>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Apéro de Décembre]]></title>
