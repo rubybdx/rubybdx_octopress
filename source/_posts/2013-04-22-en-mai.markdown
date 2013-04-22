@@ -1,0 +1,22 @@
+---
+layout: post
+title: "En Mai, fais ce qu'il te plaît."
+date: 2013-04-22 17:34
+comments: true
+categories: 
+---
+
+Bonjour à tous !  
+
+Le prochain apéro Ruby aura lieu le 7 Mai au [Plaza Chartrons](https://maps.google.com/maps?q=Plaza+Chartrons+Bordeaux&hl=en&sll=44.852566,-0.572208&sspn=0.041437,0.078535&t=h&hq=Plaza+Chartrons&hnear=Bordeaux,+Gironde,+Aquitaine,+France&z=14), à partir de 19h. Vous pouvez vous inscrire sur le [Meetup officiel ici](http://www.meetup.com/rubybdx/events/115127382/), ce n'est pas obligatoire ! Si vous passez à l'improviste, on vous accueillera avec plaisir.  
+  
+Pour l'instant,  nous avons une présentation une prévue :
+
+- [Geocoder](http://www.rubygeocoder.com/) : Une gem pratique pour vos applications géolocalisées (par Damian).
+
+
+Si vous voulez présenter quelque chose, n'hésitez pas à vous manifester sur [Twitter](https://twitter.com/rubybdx) ou sur la [mailing list](https://groups.google.com/forum/?fromgroups#!forum/rubybdx).
+
+On se voit Mardi 7 Mai !
+
+Bonne soirée.

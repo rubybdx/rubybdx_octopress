@@ -4,7 +4,7 @@
   <title><![CDATA[Ruby à Bordeaux]]></title>
   <link href="http://www.rubybdx.org/atom.xml" rel="self"/>
   <link href="http://www.rubybdx.org/"/>
-  <updated>2013-02-18T10:36:32+01:00</updated>
+  <updated>2013-04-22T17:56:35+02:00</updated>
   <id>http://www.rubybdx.org/</id>
   <author>
     <name><![CDATA[Damian LE NOUAILLE, Josselin AUGUSTE]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[En Mai, fais ce qu'il te plaît.]]></title>
+    <link href="http://www.rubybdx.org/blog/2013/04/22/en-mai/"/>
+    <updated>2013-04-22T17:34:00+02:00</updated>
+    <id>http://www.rubybdx.org/blog/2013/04/22/en-mai</id>
+    <content type="html"><![CDATA[<p>Bonjour à tous !</p>
+
+<p>Le prochain apéro Ruby aura lieu le 7 Mai au <a href="https://maps.google.com/maps?q=Plaza+Chartrons+Bordeaux&amp;hl=en&amp;sll=44.852566,-0.572208&amp;sspn=0.041437,0.078535&amp;t=h&amp;hq=Plaza+Chartrons&amp;hnear=Bordeaux,+Gironde,+Aquitaine,+France&amp;z=14">Plaza Chartrons</a>, à partir de 19h. Vous pouvez vous inscrire sur le <a href="http://www.meetup.com/rubybdx/events/115127382/">Meetup officiel ici</a>, ce n&#8217;est pas obligatoire ! Si vous passez à l&#8217;improviste, on vous accueillera avec plaisir.</p>
+
+<p>Pour l&#8217;instant,  nous avons une présentation une prévue :</p>
+
+<ul>
+<li><a href="http://www.rubygeocoder.com/">Geocoder</a> : Une gem pratique pour vos applications géolocalisées (par Damian).</li>
+</ul>
+
+
+<p>Si vous voulez présenter quelque chose, n&#8217;hésitez pas à vous manifester sur <a href="https://twitter.com/rubybdx">Twitter</a> ou sur la <a href="https://groups.google.com/forum/?fromgroups#!forum/rubybdx">mailing list</a>.</p>
+
+<p>On se voit Mardi 7 Mai !</p>
+
+<p>Bonne soirée.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mars]]></title>

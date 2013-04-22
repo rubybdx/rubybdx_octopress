@@ -57,4 +57,10 @@ display: inline-block;
   margin: 0 auto;
   padding: 10px 0;
   text-align: center;
+
+  h1 {
+    position: absolute;
+    font-size: 9px;
+    float: left;
+  }
 }
