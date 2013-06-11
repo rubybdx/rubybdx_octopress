@@ -8,4 +8,5 @@
 	
 	git add .
 	git commit -m 'deploy'
-	git push
+    git push
+	git push heroku master
